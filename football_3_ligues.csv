@@ -1,0 +1,1067 @@
+match_id,utc_date,status,competition,matchday,home_team,away_team,home_goals,away_goals,winner
+435943,2023-08-11 19:00:00+00:00,FINISHED,Premier League,1,Burnley FC,Manchester City FC,0,3,AWAY_TEAM
+435944,2023-08-12 12:00:00+00:00,FINISHED,Premier League,1,Arsenal FC,Nottingham Forest FC,2,1,HOME_TEAM
+435945,2023-08-12 14:00:00+00:00,FINISHED,Premier League,1,AFC Bournemouth,West Ham United FC,1,1,DRAW
+435946,2023-08-12 14:00:00+00:00,FINISHED,Premier League,1,Brighton & Hove Albion FC,Luton Town FC,4,1,HOME_TEAM
+435947,2023-08-12 14:00:00+00:00,FINISHED,Premier League,1,Everton FC,Fulham FC,0,1,AWAY_TEAM
+435948,2023-08-12 14:00:00+00:00,FINISHED,Premier League,1,Sheffield United FC,Crystal Palace FC,0,1,AWAY_TEAM
+435949,2023-08-12 16:30:00+00:00,FINISHED,Premier League,1,Newcastle United FC,Aston Villa FC,5,1,HOME_TEAM
+435950,2023-08-13 13:00:00+00:00,FINISHED,Premier League,1,Brentford FC,Tottenham Hotspur FC,2,2,DRAW
+435951,2023-08-13 15:30:00+00:00,FINISHED,Premier League,1,Chelsea FC,Liverpool FC,1,1,DRAW
+435952,2023-08-14 19:00:00+00:00,FINISHED,Premier League,1,Manchester United FC,Wolverhampton Wanderers FC,1,0,HOME_TEAM
+435959,2023-08-18 18:45:00+00:00,FINISHED,Premier League,2,Nottingham Forest FC,Sheffield United FC,2,1,HOME_TEAM
+435955,2023-08-19 14:00:00+00:00,FINISHED,Premier League,2,Fulham FC,Brentford FC,0,3,AWAY_TEAM
+435956,2023-08-19 14:00:00+00:00,FINISHED,Premier League,2,Liverpool FC,AFC Bournemouth,3,1,HOME_TEAM
+435962,2023-08-19 14:00:00+00:00,FINISHED,Premier League,2,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,1,4,AWAY_TEAM
+435960,2023-08-19 16:30:00+00:00,FINISHED,Premier League,2,Tottenham Hotspur FC,Manchester United FC,2,0,HOME_TEAM
+435958,2023-08-19 19:00:00+00:00,FINISHED,Premier League,2,Manchester City FC,Newcastle United FC,1,0,HOME_TEAM
+435953,2023-08-20 13:00:00+00:00,FINISHED,Premier League,2,Aston Villa FC,Everton FC,4,0,HOME_TEAM
+435961,2023-08-20 15:30:00+00:00,FINISHED,Premier League,2,West Ham United FC,Chelsea FC,3,1,HOME_TEAM
+435954,2023-08-21 19:00:00+00:00,FINISHED,Premier League,2,Crystal Palace FC,Arsenal FC,0,1,AWAY_TEAM
+435968,2023-08-25 19:00:00+00:00,FINISHED,Premier League,3,Chelsea FC,Luton Town FC,3,0,HOME_TEAM
+435963,2023-08-26 11:30:00+00:00,FINISHED,Premier League,3,AFC Bournemouth,Tottenham Hotspur FC,0,2,AWAY_TEAM
+435969,2023-08-26 14:00:00+00:00,FINISHED,Premier League,3,Everton FC,Wolverhampton Wanderers FC,0,1,AWAY_TEAM
+435970,2023-08-26 14:00:00+00:00,FINISHED,Premier League,3,Manchester United FC,Nottingham Forest FC,3,2,HOME_TEAM
+435964,2023-08-26 14:00:00+00:00,FINISHED,Premier League,3,Arsenal FC,Fulham FC,2,2,DRAW
+435965,2023-08-26 14:00:00+00:00,FINISHED,Premier League,3,Brentford FC,Crystal Palace FC,1,1,DRAW
+435966,2023-08-26 16:30:00+00:00,FINISHED,Premier League,3,Brighton & Hove Albion FC,West Ham United FC,1,3,AWAY_TEAM
+435972,2023-08-27 13:00:00+00:00,FINISHED,Premier League,3,Sheffield United FC,Manchester City FC,1,2,AWAY_TEAM
+435967,2023-08-27 13:00:00+00:00,FINISHED,Premier League,3,Burnley FC,Aston Villa FC,1,3,AWAY_TEAM
+435971,2023-08-27 15:30:00+00:00,FINISHED,Premier League,3,Newcastle United FC,Liverpool FC,1,2,AWAY_TEAM
+435980,2023-09-01 19:00:00+00:00,FINISHED,Premier League,4,Luton Town FC,West Ham United FC,1,2,AWAY_TEAM
+435982,2023-09-02 11:30:00+00:00,FINISHED,Premier League,4,Sheffield United FC,Everton FC,2,2,DRAW
+435974,2023-09-02 14:00:00+00:00,FINISHED,Premier League,4,Brentford FC,AFC Bournemouth,2,2,DRAW
+435976,2023-09-02 14:00:00+00:00,FINISHED,Premier League,4,Burnley FC,Tottenham Hotspur FC,2,5,AWAY_TEAM
+435977,2023-09-02 14:00:00+00:00,FINISHED,Premier League,4,Chelsea FC,Nottingham Forest FC,0,1,AWAY_TEAM
+435981,2023-09-02 14:00:00+00:00,FINISHED,Premier League,4,Manchester City FC,Fulham FC,5,1,HOME_TEAM
+435975,2023-09-02 16:30:00+00:00,FINISHED,Premier League,4,Brighton & Hove Albion FC,Newcastle United FC,3,1,HOME_TEAM
+435978,2023-09-03 13:00:00+00:00,FINISHED,Premier League,4,Crystal Palace FC,Wolverhampton Wanderers FC,3,2,HOME_TEAM
+435979,2023-09-03 13:00:00+00:00,FINISHED,Premier League,4,Liverpool FC,Aston Villa FC,3,0,HOME_TEAM
+435973,2023-09-03 15:30:00+00:00,FINISHED,Premier League,4,Arsenal FC,Manchester United FC,3,1,HOME_TEAM
+435992,2023-09-16 11:30:00+00:00,FINISHED,Premier League,5,Wolverhampton Wanderers FC,Liverpool FC,1,3,AWAY_TEAM
+435984,2023-09-16 14:00:00+00:00,FINISHED,Premier League,5,Aston Villa FC,Crystal Palace FC,3,1,HOME_TEAM
+435986,2023-09-16 14:00:00+00:00,FINISHED,Premier League,5,Fulham FC,Luton Town FC,1,0,HOME_TEAM
+435987,2023-09-16 14:00:00+00:00,FINISHED,Premier League,5,Manchester United FC,Brighton & Hove Albion FC,1,3,AWAY_TEAM
+435990,2023-09-16 14:00:00+00:00,FINISHED,Premier League,5,Tottenham Hotspur FC,Sheffield United FC,2,1,HOME_TEAM
+435991,2023-09-16 14:00:00+00:00,FINISHED,Premier League,5,West Ham United FC,Manchester City FC,1,3,AWAY_TEAM
+435988,2023-09-16 16:30:00+00:00,FINISHED,Premier League,5,Newcastle United FC,Brentford FC,1,0,HOME_TEAM
+435983,2023-09-17 13:00:00+00:00,FINISHED,Premier League,5,AFC Bournemouth,Chelsea FC,0,0,DRAW
+435985,2023-09-17 15:30:00+00:00,FINISHED,Premier League,5,Everton FC,Arsenal FC,0,1,AWAY_TEAM
+435989,2023-09-18 18:45:00+00:00,FINISHED,Premier League,5,Nottingham Forest FC,Burnley FC,1,1,DRAW
+435998,2023-09-23 14:00:00+00:00,FINISHED,Premier League,6,Crystal Palace FC,Fulham FC,0,0,DRAW
+436000,2023-09-23 14:00:00+00:00,FINISHED,Premier League,6,Luton Town FC,Wolverhampton Wanderers FC,1,1,DRAW
+436001,2023-09-23 14:00:00+00:00,FINISHED,Premier League,6,Manchester City FC,Nottingham Forest FC,2,0,HOME_TEAM
+435994,2023-09-23 16:30:00+00:00,FINISHED,Premier League,6,Brentford FC,Everton FC,1,3,AWAY_TEAM
+435996,2023-09-23 19:00:00+00:00,FINISHED,Premier League,6,Burnley FC,Manchester United FC,0,1,AWAY_TEAM
+435993,2023-09-24 13:00:00+00:00,FINISHED,Premier League,6,Arsenal FC,Tottenham Hotspur FC,2,2,DRAW
+435995,2023-09-24 13:00:00+00:00,FINISHED,Premier League,6,Brighton & Hove Albion FC,AFC Bournemouth,3,1,HOME_TEAM
+435997,2023-09-24 13:00:00+00:00,FINISHED,Premier League,6,Chelsea FC,Aston Villa FC,0,1,AWAY_TEAM
+435999,2023-09-24 13:00:00+00:00,FINISHED,Premier League,6,Liverpool FC,West Ham United FC,3,1,HOME_TEAM
+436002,2023-09-24 15:30:00+00:00,FINISHED,Premier League,6,Sheffield United FC,Newcastle United FC,0,8,AWAY_TEAM
+436004,2023-09-30 11:30:00+00:00,FINISHED,Premier League,7,Aston Villa FC,Brighton & Hove Albion FC,6,1,HOME_TEAM
+436003,2023-09-30 14:00:00+00:00,FINISHED,Premier League,7,AFC Bournemouth,Arsenal FC,0,4,AWAY_TEAM
+436005,2023-09-30 14:00:00+00:00,FINISHED,Premier League,7,Everton FC,Luton Town FC,1,2,AWAY_TEAM
+436007,2023-09-30 14:00:00+00:00,FINISHED,Premier League,7,Manchester United FC,Crystal Palace FC,0,1,AWAY_TEAM
+436008,2023-09-30 14:00:00+00:00,FINISHED,Premier League,7,Newcastle United FC,Burnley FC,2,0,HOME_TEAM
+436011,2023-09-30 14:00:00+00:00,FINISHED,Premier League,7,West Ham United FC,Sheffield United FC,2,0,HOME_TEAM
+436012,2023-09-30 14:00:00+00:00,FINISHED,Premier League,7,Wolverhampton Wanderers FC,Manchester City FC,2,1,HOME_TEAM
+436010,2023-09-30 16:30:00+00:00,FINISHED,Premier League,7,Tottenham Hotspur FC,Liverpool FC,2,1,HOME_TEAM
+436009,2023-10-01 13:00:00+00:00,FINISHED,Premier League,7,Nottingham Forest FC,Brentford FC,1,1,DRAW
+436006,2023-10-02 19:00:00+00:00,FINISHED,Premier League,7,Fulham FC,Chelsea FC,0,2,AWAY_TEAM
+435957,2023-10-03 18:30:00+00:00,FINISHED,Premier League,2,Luton Town FC,Burnley FC,1,2,AWAY_TEAM
+436019,2023-10-07 11:30:00+00:00,FINISHED,Premier League,8,Luton Town FC,Tottenham Hotspur FC,0,1,AWAY_TEAM
+436015,2023-10-07 14:00:00+00:00,FINISHED,Premier League,8,Burnley FC,Chelsea FC,1,4,AWAY_TEAM
+436017,2023-10-07 14:00:00+00:00,FINISHED,Premier League,8,Everton FC,AFC Bournemouth,3,0,HOME_TEAM
+436018,2023-10-07 14:00:00+00:00,FINISHED,Premier League,8,Fulham FC,Sheffield United FC,3,1,HOME_TEAM
+436020,2023-10-07 14:00:00+00:00,FINISHED,Premier League,8,Manchester United FC,Brentford FC,2,1,HOME_TEAM
+436016,2023-10-07 16:30:00+00:00,FINISHED,Premier League,8,Crystal Palace FC,Nottingham Forest FC,0,0,DRAW
+436014,2023-10-08 13:00:00+00:00,FINISHED,Premier League,8,Brighton & Hove Albion FC,Liverpool FC,2,2,DRAW
+436021,2023-10-08 13:00:00+00:00,FINISHED,Premier League,8,West Ham United FC,Newcastle United FC,2,2,DRAW
+436022,2023-10-08 13:00:00+00:00,FINISHED,Premier League,8,Wolverhampton Wanderers FC,Aston Villa FC,1,1,DRAW
+436013,2023-10-08 15:30:00+00:00,FINISHED,Premier League,8,Arsenal FC,Manchester City FC,1,0,HOME_TEAM
+436027,2023-10-21 11:30:00+00:00,FINISHED,Premier League,9,Liverpool FC,Everton FC,2,0,HOME_TEAM
+436023,2023-10-21 14:00:00+00:00,FINISHED,Premier League,9,AFC Bournemouth,Wolverhampton Wanderers FC,1,2,AWAY_TEAM
+436025,2023-10-21 14:00:00+00:00,FINISHED,Premier League,9,Brentford FC,Burnley FC,3,0,HOME_TEAM
+436028,2023-10-21 14:00:00+00:00,FINISHED,Premier League,9,Manchester City FC,Brighton & Hove Albion FC,2,1,HOME_TEAM
+436029,2023-10-21 14:00:00+00:00,FINISHED,Premier League,9,Newcastle United FC,Crystal Palace FC,4,0,HOME_TEAM
+436030,2023-10-21 14:00:00+00:00,FINISHED,Premier League,9,Nottingham Forest FC,Luton Town FC,2,2,DRAW
+436026,2023-10-21 16:30:00+00:00,FINISHED,Premier League,9,Chelsea FC,Arsenal FC,2,2,DRAW
+436031,2023-10-21 19:00:00+00:00,FINISHED,Premier League,9,Sheffield United FC,Manchester United FC,1,2,AWAY_TEAM
+436024,2023-10-22 15:30:00+00:00,FINISHED,Premier League,9,Aston Villa FC,West Ham United FC,4,1,HOME_TEAM
+436032,2023-10-23 19:00:00+00:00,FINISHED,Premier League,9,Tottenham Hotspur FC,Fulham FC,2,0,HOME_TEAM
+436038,2023-10-27 19:00:00+00:00,FINISHED,Premier League,10,Crystal Palace FC,Tottenham Hotspur FC,1,2,AWAY_TEAM
+436037,2023-10-28 11:30:00+00:00,FINISHED,Premier League,10,Chelsea FC,Brentford FC,0,2,AWAY_TEAM
+436033,2023-10-28 14:00:00+00:00,FINISHED,Premier League,10,AFC Bournemouth,Burnley FC,2,1,HOME_TEAM
+436034,2023-10-28 14:00:00+00:00,FINISHED,Premier League,10,Arsenal FC,Sheffield United FC,5,0,HOME_TEAM
+436042,2023-10-28 16:30:00+00:00,FINISHED,Premier League,10,Wolverhampton Wanderers FC,Newcastle United FC,2,2,DRAW
+436041,2023-10-29 13:00:00+00:00,FINISHED,Premier League,10,West Ham United FC,Everton FC,0,1,AWAY_TEAM
+436035,2023-10-29 14:00:00+00:00,FINISHED,Premier League,10,Aston Villa FC,Luton Town FC,3,1,HOME_TEAM
+436036,2023-10-29 14:00:00+00:00,FINISHED,Premier League,10,Brighton & Hove Albion FC,Fulham FC,1,1,DRAW
+436039,2023-10-29 14:00:00+00:00,FINISHED,Premier League,10,Liverpool FC,Nottingham Forest FC,3,0,HOME_TEAM
+436040,2023-10-29 15:30:00+00:00,FINISHED,Premier League,10,Manchester United FC,Manchester City FC,0,3,AWAY_TEAM
+436046,2023-11-04 12:30:00+00:00,FINISHED,Premier League,11,Fulham FC,Manchester United FC,0,1,AWAY_TEAM
+436043,2023-11-04 15:00:00+00:00,FINISHED,Premier League,11,Brentford FC,West Ham United FC,3,2,HOME_TEAM
+436044,2023-11-04 15:00:00+00:00,FINISHED,Premier League,11,Burnley FC,Crystal Palace FC,0,2,AWAY_TEAM
+436045,2023-11-04 15:00:00+00:00,FINISHED,Premier League,11,Everton FC,Brighton & Hove Albion FC,1,1,DRAW
+436048,2023-11-04 15:00:00+00:00,FINISHED,Premier League,11,Manchester City FC,AFC Bournemouth,6,1,HOME_TEAM
+436051,2023-11-04 15:00:00+00:00,FINISHED,Premier League,11,Sheffield United FC,Wolverhampton Wanderers FC,2,1,HOME_TEAM
+436049,2023-11-04 17:30:00+00:00,FINISHED,Premier League,11,Newcastle United FC,Arsenal FC,1,0,HOME_TEAM
+436050,2023-11-05 14:00:00+00:00,FINISHED,Premier League,11,Nottingham Forest FC,Aston Villa FC,2,0,HOME_TEAM
+436047,2023-11-05 16:30:00+00:00,FINISHED,Premier League,11,Luton Town FC,Liverpool FC,1,1,DRAW
+436052,2023-11-06 20:00:00+00:00,FINISHED,Premier League,11,Tottenham Hotspur FC,Chelsea FC,1,4,AWAY_TEAM
+436062,2023-11-11 12:30:00+00:00,FINISHED,Premier League,12,Wolverhampton Wanderers FC,Tottenham Hotspur FC,2,1,HOME_TEAM
+436054,2023-11-11 15:00:00+00:00,FINISHED,Premier League,12,Arsenal FC,Burnley FC,3,1,HOME_TEAM
+436058,2023-11-11 15:00:00+00:00,FINISHED,Premier League,12,Crystal Palace FC,Everton FC,2,3,AWAY_TEAM
+436060,2023-11-11 15:00:00+00:00,FINISHED,Premier League,12,Manchester United FC,Luton Town FC,1,0,HOME_TEAM
+436053,2023-11-11 17:30:00+00:00,FINISHED,Premier League,12,AFC Bournemouth,Newcastle United FC,2,0,HOME_TEAM
+436055,2023-11-12 14:00:00+00:00,FINISHED,Premier League,12,Aston Villa FC,Fulham FC,3,1,HOME_TEAM
+436056,2023-11-12 14:00:00+00:00,FINISHED,Premier League,12,Brighton & Hove Albion FC,Sheffield United FC,1,1,DRAW
+436059,2023-11-12 14:00:00+00:00,FINISHED,Premier League,12,Liverpool FC,Brentford FC,3,0,HOME_TEAM
+436061,2023-11-12 14:00:00+00:00,FINISHED,Premier League,12,West Ham United FC,Nottingham Forest FC,3,2,HOME_TEAM
+436057,2023-11-12 16:30:00+00:00,FINISHED,Premier League,12,Chelsea FC,Manchester City FC,4,4,DRAW
+436068,2023-11-25 12:30:00+00:00,FINISHED,Premier League,13,Manchester City FC,Liverpool FC,1,1,DRAW
+436064,2023-11-25 15:00:00+00:00,FINISHED,Premier League,13,Burnley FC,West Ham United FC,1,2,AWAY_TEAM
+436067,2023-11-25 15:00:00+00:00,FINISHED,Premier League,13,Luton Town FC,Crystal Palace FC,2,1,HOME_TEAM
+436069,2023-11-25 15:00:00+00:00,FINISHED,Premier League,13,Newcastle United FC,Chelsea FC,4,1,HOME_TEAM
+436070,2023-11-25 15:00:00+00:00,FINISHED,Premier League,13,Nottingham Forest FC,Brighton & Hove Albion FC,2,3,AWAY_TEAM
+436071,2023-11-25 15:00:00+00:00,FINISHED,Premier League,13,Sheffield United FC,AFC Bournemouth,1,3,AWAY_TEAM
+436063,2023-11-25 17:30:00+00:00,FINISHED,Premier League,13,Brentford FC,Arsenal FC,0,1,AWAY_TEAM
+436072,2023-11-26 14:00:00+00:00,FINISHED,Premier League,13,Tottenham Hotspur FC,Aston Villa FC,1,2,AWAY_TEAM
+436065,2023-11-26 16:30:00+00:00,FINISHED,Premier League,13,Everton FC,Manchester United FC,0,3,AWAY_TEAM
+436066,2023-11-27 20:00:00+00:00,FINISHED,Premier League,13,Fulham FC,Wolverhampton Wanderers FC,3,2,HOME_TEAM
+436074,2023-12-02 15:00:00+00:00,FINISHED,Premier League,14,Arsenal FC,Wolverhampton Wanderers FC,2,1,HOME_TEAM
+436075,2023-12-02 15:00:00+00:00,FINISHED,Premier League,14,Brentford FC,Luton Town FC,3,1,HOME_TEAM
+436076,2023-12-02 15:00:00+00:00,FINISHED,Premier League,14,Burnley FC,Sheffield United FC,5,0,HOME_TEAM
+436081,2023-12-02 17:30:00+00:00,FINISHED,Premier League,14,Nottingham Forest FC,Everton FC,0,1,AWAY_TEAM
+436080,2023-12-02 20:00:00+00:00,FINISHED,Premier League,14,Newcastle United FC,Manchester United FC,1,0,HOME_TEAM
+436073,2023-12-03 14:00:00+00:00,FINISHED,Premier League,14,AFC Bournemouth,Aston Villa FC,2,2,DRAW
+436077,2023-12-03 14:00:00+00:00,FINISHED,Premier League,14,Chelsea FC,Brighton & Hove Albion FC,3,2,HOME_TEAM
+436078,2023-12-03 14:00:00+00:00,FINISHED,Premier League,14,Liverpool FC,Fulham FC,4,3,HOME_TEAM
+436082,2023-12-03 14:00:00+00:00,FINISHED,Premier League,14,West Ham United FC,Crystal Palace FC,1,1,DRAW
+436079,2023-12-03 16:30:00+00:00,FINISHED,Premier League,14,Manchester City FC,Tottenham Hotspur FC,3,3,DRAW
+436090,2023-12-05 19:30:00+00:00,FINISHED,Premier League,15,Wolverhampton Wanderers FC,Burnley FC,1,0,HOME_TEAM
+436087,2023-12-05 20:15:00+00:00,FINISHED,Premier League,15,Luton Town FC,Arsenal FC,3,4,AWAY_TEAM
+436084,2023-12-06 19:30:00+00:00,FINISHED,Premier League,15,Brighton & Hove Albion FC,Brentford FC,2,1,HOME_TEAM
+436086,2023-12-06 19:30:00+00:00,FINISHED,Premier League,15,Fulham FC,Nottingham Forest FC,5,0,HOME_TEAM
+436088,2023-12-06 19:30:00+00:00,FINISHED,Premier League,15,Sheffield United FC,Liverpool FC,0,2,AWAY_TEAM
+436091,2023-12-06 19:30:00+00:00,FINISHED,Premier League,15,Crystal Palace FC,AFC Bournemouth,0,2,AWAY_TEAM
+436083,2023-12-06 20:15:00+00:00,FINISHED,Premier League,15,Aston Villa FC,Manchester City FC,1,0,HOME_TEAM
+436092,2023-12-06 20:15:00+00:00,FINISHED,Premier League,15,Manchester United FC,Chelsea FC,2,1,HOME_TEAM
+436085,2023-12-07 19:30:00+00:00,FINISHED,Premier League,15,Everton FC,Newcastle United FC,3,0,HOME_TEAM
+436089,2023-12-07 20:15:00+00:00,FINISHED,Premier League,15,Tottenham Hotspur FC,West Ham United FC,1,2,AWAY_TEAM
+436095,2023-12-09 12:30:00+00:00,FINISHED,Premier League,16,Crystal Palace FC,Liverpool FC,1,2,AWAY_TEAM
+436094,2023-12-09 15:00:00+00:00,FINISHED,Premier League,16,Brighton & Hove Albion FC,Burnley FC,1,1,DRAW
+436099,2023-12-09 15:00:00+00:00,FINISHED,Premier League,16,Manchester United FC,AFC Bournemouth,0,3,AWAY_TEAM
+436100,2023-12-09 15:00:00+00:00,FINISHED,Premier League,16,Sheffield United FC,Brentford FC,1,0,HOME_TEAM
+436102,2023-12-09 15:00:00+00:00,FINISHED,Premier League,16,Wolverhampton Wanderers FC,Nottingham Forest FC,1,1,DRAW
+436093,2023-12-09 17:30:00+00:00,FINISHED,Premier League,16,Aston Villa FC,Arsenal FC,1,0,HOME_TEAM
+436096,2023-12-10 14:00:00+00:00,FINISHED,Premier League,16,Everton FC,Chelsea FC,2,0,HOME_TEAM
+436097,2023-12-10 14:00:00+00:00,FINISHED,Premier League,16,Fulham FC,West Ham United FC,5,0,HOME_TEAM
+436098,2023-12-10 14:00:00+00:00,FINISHED,Premier League,16,Luton Town FC,Manchester City FC,1,2,AWAY_TEAM
+436101,2023-12-10 16:30:00+00:00,FINISHED,Premier League,16,Tottenham Hotspur FC,Newcastle United FC,4,1,HOME_TEAM
+436111,2023-12-15 20:00:00+00:00,FINISHED,Premier League,17,Nottingham Forest FC,Tottenham Hotspur FC,0,2,AWAY_TEAM
+436107,2023-12-16 15:00:00+00:00,FINISHED,Premier League,17,Chelsea FC,Sheffield United FC,2,0,HOME_TEAM
+436109,2023-12-16 15:00:00+00:00,FINISHED,Premier League,17,Manchester City FC,Crystal Palace FC,2,2,DRAW
+436110,2023-12-16 15:00:00+00:00,FINISHED,Premier League,17,Newcastle United FC,Fulham FC,3,0,HOME_TEAM
+436106,2023-12-16 17:30:00+00:00,FINISHED,Premier League,17,Burnley FC,Everton FC,0,2,AWAY_TEAM
+436104,2023-12-17 14:00:00+00:00,FINISHED,Premier League,17,Arsenal FC,Brighton & Hove Albion FC,2,0,HOME_TEAM
+436105,2023-12-17 14:00:00+00:00,FINISHED,Premier League,17,Brentford FC,Aston Villa FC,1,2,AWAY_TEAM
+436112,2023-12-17 14:00:00+00:00,FINISHED,Premier League,17,West Ham United FC,Wolverhampton Wanderers FC,3,0,HOME_TEAM
+436108,2023-12-17 16:30:00+00:00,FINISHED,Premier League,17,Liverpool FC,Manchester United FC,0,0,DRAW
+436114,2023-12-21 20:00:00+00:00,FINISHED,Premier League,18,Crystal Palace FC,Brighton & Hove Albion FC,1,1,DRAW
+436113,2023-12-22 20:00:00+00:00,FINISHED,Premier League,18,Aston Villa FC,Sheffield United FC,1,1,DRAW
+436121,2023-12-23 12:30:00+00:00,FINISHED,Premier League,18,West Ham United FC,Manchester United FC,2,0,HOME_TEAM
+436115,2023-12-23 15:00:00+00:00,FINISHED,Premier League,18,Fulham FC,Burnley FC,0,2,AWAY_TEAM
+436117,2023-12-23 15:00:00+00:00,FINISHED,Premier League,18,Luton Town FC,Newcastle United FC,1,0,HOME_TEAM
+436119,2023-12-23 15:00:00+00:00,FINISHED,Premier League,18,Nottingham Forest FC,AFC Bournemouth,2,3,AWAY_TEAM
+436120,2023-12-23 15:00:00+00:00,FINISHED,Premier League,18,Tottenham Hotspur FC,Everton FC,2,1,HOME_TEAM
+436116,2023-12-23 17:30:00+00:00,FINISHED,Premier League,18,Liverpool FC,Arsenal FC,1,1,DRAW
+436122,2023-12-24 13:00:00+00:00,FINISHED,Premier League,18,Wolverhampton Wanderers FC,Chelsea FC,2,1,HOME_TEAM
+436131,2023-12-26 12:30:00+00:00,FINISHED,Premier League,19,Newcastle United FC,Nottingham Forest FC,1,3,AWAY_TEAM
+436123,2023-12-26 15:00:00+00:00,FINISHED,Premier League,19,AFC Bournemouth,Fulham FC,3,0,HOME_TEAM
+436132,2023-12-26 15:00:00+00:00,FINISHED,Premier League,19,Sheffield United FC,Luton Town FC,2,3,AWAY_TEAM
+436127,2023-12-26 17:30:00+00:00,FINISHED,Premier League,19,Burnley FC,Liverpool FC,0,2,AWAY_TEAM
+436130,2023-12-26 20:00:00+00:00,FINISHED,Premier League,19,Manchester United FC,Aston Villa FC,3,2,HOME_TEAM
+436125,2023-12-27 19:30:00+00:00,FINISHED,Premier League,19,Brentford FC,Wolverhampton Wanderers FC,1,4,AWAY_TEAM
+436128,2023-12-27 19:30:00+00:00,FINISHED,Premier League,19,Chelsea FC,Crystal Palace FC,2,1,HOME_TEAM
+436129,2023-12-27 20:15:00+00:00,FINISHED,Premier League,19,Everton FC,Manchester City FC,1,3,AWAY_TEAM
+436126,2023-12-28 19:30:00+00:00,FINISHED,Premier League,19,Brighton & Hove Albion FC,Tottenham Hotspur FC,4,2,HOME_TEAM
+436124,2023-12-28 20:15:00+00:00,FINISHED,Premier League,19,Arsenal FC,West Ham United FC,0,2,AWAY_TEAM
+436137,2023-12-30 12:30:00+00:00,FINISHED,Premier League,20,Luton Town FC,Chelsea FC,2,3,AWAY_TEAM
+436133,2023-12-30 15:00:00+00:00,FINISHED,Premier League,20,Aston Villa FC,Burnley FC,3,2,HOME_TEAM
+436134,2023-12-30 15:00:00+00:00,FINISHED,Premier League,20,Crystal Palace FC,Brentford FC,3,1,HOME_TEAM
+436138,2023-12-30 15:00:00+00:00,FINISHED,Premier League,20,Manchester City FC,Sheffield United FC,2,0,HOME_TEAM
+436142,2023-12-30 15:00:00+00:00,FINISHED,Premier League,20,Wolverhampton Wanderers FC,Everton FC,3,0,HOME_TEAM
+436139,2023-12-30 17:30:00+00:00,FINISHED,Premier League,20,Nottingham Forest FC,Manchester United FC,2,1,HOME_TEAM
+436135,2023-12-31 14:00:00+00:00,FINISHED,Premier League,20,Fulham FC,Arsenal FC,2,1,HOME_TEAM
+436140,2023-12-31 14:00:00+00:00,FINISHED,Premier League,20,Tottenham Hotspur FC,AFC Bournemouth,3,1,HOME_TEAM
+436136,2024-01-01 20:00:00+00:00,FINISHED,Premier League,20,Liverpool FC,Newcastle United FC,4,2,HOME_TEAM
+436141,2024-01-02 19:30:00+00:00,FINISHED,Premier League,20,West Ham United FC,Brighton & Hove Albion FC,0,0,DRAW
+436147,2024-01-12 19:45:00+00:00,FINISHED,Premier League,21,Burnley FC,Luton Town FC,1,1,DRAW
+436148,2024-01-13 12:30:00+00:00,FINISHED,Premier League,21,Chelsea FC,Fulham FC,1,0,HOME_TEAM
+436151,2024-01-13 17:30:00+00:00,FINISHED,Premier League,21,Newcastle United FC,Manchester City FC,2,3,AWAY_TEAM
+436149,2024-01-14 14:00:00+00:00,FINISHED,Premier League,21,Everton FC,Aston Villa FC,0,0,DRAW
+436150,2024-01-14 16:30:00+00:00,FINISHED,Premier League,21,Manchester United FC,Tottenham Hotspur FC,2,2,DRAW
+436144,2024-01-20 12:30:00+00:00,FINISHED,Premier League,21,Arsenal FC,Crystal Palace FC,5,0,HOME_TEAM
+436145,2024-01-20 17:30:00+00:00,FINISHED,Premier League,21,Brentford FC,Nottingham Forest FC,3,2,HOME_TEAM
+436152,2024-01-21 14:00:00+00:00,FINISHED,Premier League,21,Sheffield United FC,West Ham United FC,2,2,DRAW
+436143,2024-01-21 16:30:00+00:00,FINISHED,Premier League,21,AFC Bournemouth,Liverpool FC,0,4,AWAY_TEAM
+436146,2024-01-22 19:45:00+00:00,FINISHED,Premier League,21,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,0,0,DRAW
+436153,2024-01-30 19:30:00+00:00,FINISHED,Premier League,22,Nottingham Forest FC,Arsenal FC,1,2,AWAY_TEAM
+436155,2024-01-30 19:45:00+00:00,FINISHED,Premier League,22,Luton Town FC,Brighton & Hove Albion FC,4,0,HOME_TEAM
+436156,2024-01-30 19:45:00+00:00,FINISHED,Premier League,22,Fulham FC,Everton FC,0,0,DRAW
+436157,2024-01-30 20:00:00+00:00,FINISHED,Premier League,22,Crystal Palace FC,Sheffield United FC,3,2,HOME_TEAM
+436158,2024-01-30 20:15:00+00:00,FINISHED,Premier League,22,Aston Villa FC,Newcastle United FC,1,3,AWAY_TEAM
+436159,2024-01-31 19:30:00+00:00,FINISHED,Premier League,22,Tottenham Hotspur FC,Brentford FC,3,2,HOME_TEAM
+436161,2024-01-31 19:30:00+00:00,FINISHED,Premier League,22,Manchester City FC,Burnley FC,3,1,HOME_TEAM
+436162,2024-01-31 20:15:00+00:00,FINISHED,Premier League,22,Liverpool FC,Chelsea FC,4,1,HOME_TEAM
+436154,2024-02-01 19:30:00+00:00,FINISHED,Premier League,22,West Ham United FC,AFC Bournemouth,1,1,DRAW
+436160,2024-02-01 20:15:00+00:00,FINISHED,Premier League,22,Wolverhampton Wanderers FC,Manchester United FC,3,4,AWAY_TEAM
+436169,2024-02-03 12:30:00+00:00,FINISHED,Premier League,23,Everton FC,Tottenham Hotspur FC,2,2,DRAW
+436166,2024-02-03 15:00:00+00:00,FINISHED,Premier League,23,Brighton & Hove Albion FC,Crystal Palace FC,4,1,HOME_TEAM
+436167,2024-02-03 15:00:00+00:00,FINISHED,Premier League,23,Burnley FC,Fulham FC,2,2,DRAW
+436171,2024-02-03 15:00:00+00:00,FINISHED,Premier League,23,Newcastle United FC,Luton Town FC,4,4,DRAW
+436172,2024-02-03 17:30:00+00:00,FINISHED,Premier League,23,Sheffield United FC,Aston Villa FC,0,5,AWAY_TEAM
+436163,2024-02-04 14:00:00+00:00,FINISHED,Premier League,23,AFC Bournemouth,Nottingham Forest FC,1,1,DRAW
+436168,2024-02-04 14:00:00+00:00,FINISHED,Premier League,23,Chelsea FC,Wolverhampton Wanderers FC,2,4,AWAY_TEAM
+436170,2024-02-04 14:00:00+00:00,FINISHED,Premier League,23,Manchester United FC,West Ham United FC,3,0,HOME_TEAM
+436164,2024-02-04 16:30:00+00:00,FINISHED,Premier League,23,Arsenal FC,Liverpool FC,3,1,HOME_TEAM
+436165,2024-02-05 20:00:00+00:00,FINISHED,Premier League,23,Brentford FC,Manchester City FC,1,3,AWAY_TEAM
+436178,2024-02-10 12:30:00+00:00,FINISHED,Premier League,24,Manchester City FC,Everton FC,2,0,HOME_TEAM
+436175,2024-02-10 15:00:00+00:00,FINISHED,Premier League,24,Fulham FC,AFC Bournemouth,3,1,HOME_TEAM
+436176,2024-02-10 15:00:00+00:00,FINISHED,Premier League,24,Liverpool FC,Burnley FC,3,1,HOME_TEAM
+436177,2024-02-10 15:00:00+00:00,FINISHED,Premier League,24,Luton Town FC,Sheffield United FC,1,3,AWAY_TEAM
+436180,2024-02-10 15:00:00+00:00,FINISHED,Premier League,24,Tottenham Hotspur FC,Brighton & Hove Albion FC,2,1,HOME_TEAM
+436182,2024-02-10 15:00:00+00:00,FINISHED,Premier League,24,Wolverhampton Wanderers FC,Brentford FC,0,2,AWAY_TEAM
+436179,2024-02-10 17:30:00+00:00,FINISHED,Premier League,24,Nottingham Forest FC,Newcastle United FC,2,3,AWAY_TEAM
+436181,2024-02-11 14:00:00+00:00,FINISHED,Premier League,24,West Ham United FC,Arsenal FC,0,6,AWAY_TEAM
+436173,2024-02-11 16:30:00+00:00,FINISHED,Premier League,24,Aston Villa FC,Manchester United FC,1,2,AWAY_TEAM
+436174,2024-02-12 20:00:00+00:00,FINISHED,Premier League,24,Crystal Palace FC,Chelsea FC,1,3,AWAY_TEAM
+436183,2024-02-17 12:30:00+00:00,FINISHED,Premier League,25,Brentford FC,Liverpool FC,1,4,AWAY_TEAM
+436184,2024-02-17 15:00:00+00:00,FINISHED,Premier League,25,Burnley FC,Arsenal FC,0,5,AWAY_TEAM
+436186,2024-02-17 15:00:00+00:00,FINISHED,Premier League,25,Fulham FC,Aston Villa FC,1,2,AWAY_TEAM
+436189,2024-02-17 15:00:00+00:00,FINISHED,Premier League,25,Newcastle United FC,AFC Bournemouth,2,2,DRAW
+436190,2024-02-17 15:00:00+00:00,FINISHED,Premier League,25,Nottingham Forest FC,West Ham United FC,2,0,HOME_TEAM
+436192,2024-02-17 15:00:00+00:00,FINISHED,Premier League,25,Tottenham Hotspur FC,Wolverhampton Wanderers FC,1,2,AWAY_TEAM
+436188,2024-02-17 17:30:00+00:00,FINISHED,Premier League,25,Manchester City FC,Chelsea FC,1,1,DRAW
+436191,2024-02-18 14:00:00+00:00,FINISHED,Premier League,25,Sheffield United FC,Brighton & Hove Albion FC,0,5,AWAY_TEAM
+436187,2024-02-18 16:30:00+00:00,FINISHED,Premier League,25,Luton Town FC,Manchester United FC,1,2,AWAY_TEAM
+436185,2024-02-19 20:00:00+00:00,FINISHED,Premier League,25,Everton FC,Crystal Palace FC,1,1,DRAW
+436118,2024-02-20 19:30:00+00:00,FINISHED,Premier League,18,Manchester City FC,Brentford FC,1,0,HOME_TEAM
+436199,2024-02-21 19:30:00+00:00,FINISHED,Premier League,26,Liverpool FC,Luton Town FC,4,1,HOME_TEAM
+436195,2024-02-24 15:00:00+00:00,FINISHED,Premier League,26,Aston Villa FC,Nottingham Forest FC,4,2,HOME_TEAM
+436196,2024-02-24 15:00:00+00:00,FINISHED,Premier League,26,Brighton & Hove Albion FC,Everton FC,1,1,DRAW
+436198,2024-02-24 15:00:00+00:00,FINISHED,Premier League,26,Crystal Palace FC,Burnley FC,3,0,HOME_TEAM
+436200,2024-02-24 15:00:00+00:00,FINISHED,Premier League,26,Manchester United FC,Fulham FC,1,2,AWAY_TEAM
+436193,2024-02-24 17:30:00+00:00,FINISHED,Premier League,26,AFC Bournemouth,Manchester City FC,0,1,AWAY_TEAM
+436194,2024-02-24 20:00:00+00:00,FINISHED,Premier League,26,Arsenal FC,Newcastle United FC,4,1,HOME_TEAM
+436202,2024-02-25 13:30:00+00:00,FINISHED,Premier League,26,Wolverhampton Wanderers FC,Sheffield United FC,1,0,HOME_TEAM
+436201,2024-02-26 20:00:00+00:00,FINISHED,Premier League,26,West Ham United FC,Brentford FC,4,2,HOME_TEAM
+436203,2024-03-02 15:00:00+00:00,FINISHED,Premier League,27,Brentford FC,Chelsea FC,2,2,DRAW
+436205,2024-03-02 15:00:00+00:00,FINISHED,Premier League,27,Everton FC,West Ham United FC,1,3,AWAY_TEAM
+436206,2024-03-02 15:00:00+00:00,FINISHED,Premier League,27,Fulham FC,Brighton & Hove Albion FC,3,0,HOME_TEAM
+436209,2024-03-02 15:00:00+00:00,FINISHED,Premier League,27,Newcastle United FC,Wolverhampton Wanderers FC,3,0,HOME_TEAM
+436210,2024-03-02 15:00:00+00:00,FINISHED,Premier League,27,Nottingham Forest FC,Liverpool FC,0,1,AWAY_TEAM
+436212,2024-03-02 15:00:00+00:00,FINISHED,Premier League,27,Tottenham Hotspur FC,Crystal Palace FC,3,1,HOME_TEAM
+436207,2024-03-02 17:30:00+00:00,FINISHED,Premier League,27,Luton Town FC,Aston Villa FC,2,3,AWAY_TEAM
+436204,2024-03-03 13:00:00+00:00,FINISHED,Premier League,27,Burnley FC,AFC Bournemouth,0,2,AWAY_TEAM
+436208,2024-03-03 15:30:00+00:00,FINISHED,Premier League,27,Manchester City FC,Manchester United FC,3,1,HOME_TEAM
+436211,2024-03-04 20:00:00+00:00,FINISHED,Premier League,27,Sheffield United FC,Arsenal FC,0,6,AWAY_TEAM
+436220,2024-03-09 12:30:00+00:00,FINISHED,Premier League,28,Manchester United FC,Everton FC,2,0,HOME_TEAM
+436213,2024-03-09 15:00:00+00:00,FINISHED,Premier League,28,AFC Bournemouth,Sheffield United FC,2,2,DRAW
+436218,2024-03-09 15:00:00+00:00,FINISHED,Premier League,28,Crystal Palace FC,Luton Town FC,1,1,DRAW
+436222,2024-03-09 15:00:00+00:00,FINISHED,Premier League,28,Wolverhampton Wanderers FC,Fulham FC,2,1,HOME_TEAM
+436214,2024-03-09 17:30:00+00:00,FINISHED,Premier League,28,Arsenal FC,Brentford FC,2,1,HOME_TEAM
+436215,2024-03-10 13:00:00+00:00,FINISHED,Premier League,28,Aston Villa FC,Tottenham Hotspur FC,0,4,AWAY_TEAM
+436216,2024-03-10 14:00:00+00:00,FINISHED,Premier League,28,Brighton & Hove Albion FC,Nottingham Forest FC,1,0,HOME_TEAM
+436221,2024-03-10 14:00:00+00:00,FINISHED,Premier League,28,West Ham United FC,Burnley FC,2,2,DRAW
+436219,2024-03-10 15:45:00+00:00,FINISHED,Premier League,28,Liverpool FC,Manchester City FC,1,1,DRAW
+436217,2024-03-11 20:00:00+00:00,FINISHED,Premier League,28,Chelsea FC,Newcastle United FC,3,2,HOME_TEAM
+436103,2024-03-13 19:30:00+00:00,FINISHED,Premier League,17,AFC Bournemouth,Luton Town FC,4,3,HOME_TEAM
+436225,2024-03-16 15:00:00+00:00,FINISHED,Premier League,29,Burnley FC,Brentford FC,2,1,HOME_TEAM
+436229,2024-03-16 15:00:00+00:00,FINISHED,Premier League,29,Luton Town FC,Nottingham Forest FC,1,1,DRAW
+436228,2024-03-16 17:30:00+00:00,FINISHED,Premier League,29,Fulham FC,Tottenham Hotspur FC,3,0,HOME_TEAM
+436231,2024-03-17 14:00:00+00:00,FINISHED,Premier League,29,West Ham United FC,Aston Villa FC,1,1,DRAW
+436239,2024-03-30 12:30:00+00:00,FINISHED,Premier League,30,Newcastle United FC,West Ham United FC,4,3,HOME_TEAM
+436233,2024-03-30 15:00:00+00:00,FINISHED,Premier League,30,AFC Bournemouth,Everton FC,2,1,HOME_TEAM
+436236,2024-03-30 15:00:00+00:00,FINISHED,Premier League,30,Chelsea FC,Burnley FC,2,2,DRAW
+436240,2024-03-30 15:00:00+00:00,FINISHED,Premier League,30,Nottingham Forest FC,Crystal Palace FC,1,1,DRAW
+436241,2024-03-30 15:00:00+00:00,FINISHED,Premier League,30,Sheffield United FC,Fulham FC,3,3,DRAW
+436242,2024-03-30 15:00:00+00:00,FINISHED,Premier League,30,Tottenham Hotspur FC,Luton Town FC,2,1,HOME_TEAM
+436234,2024-03-30 17:30:00+00:00,FINISHED,Premier League,30,Aston Villa FC,Wolverhampton Wanderers FC,2,0,HOME_TEAM
+436235,2024-03-30 20:00:00+00:00,FINISHED,Premier League,30,Brentford FC,Manchester United FC,1,1,DRAW
+436237,2024-03-31 13:00:00+00:00,FINISHED,Premier League,30,Liverpool FC,Brighton & Hove Albion FC,2,1,HOME_TEAM
+436238,2024-03-31 15:30:00+00:00,FINISHED,Premier League,30,Manchester City FC,Arsenal FC,0,0,DRAW
+436247,2024-04-02 18:30:00+00:00,FINISHED,Premier League,31,Nottingham Forest FC,Fulham FC,3,1,HOME_TEAM
+436250,2024-04-02 18:30:00+00:00,FINISHED,Premier League,31,Newcastle United FC,Everton FC,1,1,DRAW
+436243,2024-04-02 18:45:00+00:00,FINISHED,Premier League,31,AFC Bournemouth,Crystal Palace FC,1,0,HOME_TEAM
+436246,2024-04-02 18:45:00+00:00,FINISHED,Premier League,31,Burnley FC,Wolverhampton Wanderers FC,1,1,DRAW
+436248,2024-04-02 19:15:00+00:00,FINISHED,Premier League,31,West Ham United FC,Tottenham Hotspur FC,1,1,DRAW
+436244,2024-04-03 18:30:00+00:00,FINISHED,Premier League,31,Arsenal FC,Luton Town FC,2,0,HOME_TEAM
+436245,2024-04-03 18:30:00+00:00,FINISHED,Premier League,31,Brentford FC,Brighton & Hove Albion FC,0,0,DRAW
+436252,2024-04-03 19:15:00+00:00,FINISHED,Premier League,31,Manchester City FC,Aston Villa FC,4,1,HOME_TEAM
+436251,2024-04-04 18:30:00+00:00,FINISHED,Premier League,31,Liverpool FC,Sheffield United FC,3,1,HOME_TEAM
+436249,2024-04-04 19:15:00+00:00,FINISHED,Premier League,31,Chelsea FC,Manchester United FC,4,3,HOME_TEAM
+436255,2024-04-06 11:30:00+00:00,FINISHED,Premier League,32,Crystal Palace FC,Manchester City FC,2,4,AWAY_TEAM
+436253,2024-04-06 14:00:00+00:00,FINISHED,Premier League,32,Aston Villa FC,Brentford FC,3,3,DRAW
+436256,2024-04-06 14:00:00+00:00,FINISHED,Premier League,32,Everton FC,Burnley FC,1,0,HOME_TEAM
+436257,2024-04-06 14:00:00+00:00,FINISHED,Premier League,32,Fulham FC,Newcastle United FC,0,1,AWAY_TEAM
+436258,2024-04-06 14:00:00+00:00,FINISHED,Premier League,32,Luton Town FC,AFC Bournemouth,2,1,HOME_TEAM
+436262,2024-04-06 14:00:00+00:00,FINISHED,Premier League,32,Wolverhampton Wanderers FC,West Ham United FC,1,2,AWAY_TEAM
+436254,2024-04-06 16:30:00+00:00,FINISHED,Premier League,32,Brighton & Hove Albion FC,Arsenal FC,0,3,AWAY_TEAM
+436259,2024-04-07 14:30:00+00:00,FINISHED,Premier League,32,Manchester United FC,Liverpool FC,2,2,DRAW
+436260,2024-04-07 16:30:00+00:00,FINISHED,Premier League,32,Sheffield United FC,Chelsea FC,2,2,DRAW
+436261,2024-04-07 17:00:00+00:00,FINISHED,Premier League,32,Tottenham Hotspur FC,Nottingham Forest FC,3,1,HOME_TEAM
+436270,2024-04-13 11:30:00+00:00,FINISHED,Premier League,33,Newcastle United FC,Tottenham Hotspur FC,4,0,HOME_TEAM
+436265,2024-04-13 14:00:00+00:00,FINISHED,Premier League,33,Brentford FC,Sheffield United FC,2,0,HOME_TEAM
+436266,2024-04-13 14:00:00+00:00,FINISHED,Premier League,33,Burnley FC,Brighton & Hove Albion FC,1,1,DRAW
+436269,2024-04-13 14:00:00+00:00,FINISHED,Premier League,33,Manchester City FC,Luton Town FC,5,1,HOME_TEAM
+436271,2024-04-13 14:00:00+00:00,FINISHED,Premier League,33,Nottingham Forest FC,Wolverhampton Wanderers FC,2,2,DRAW
+436263,2024-04-13 16:30:00+00:00,FINISHED,Premier League,33,AFC Bournemouth,Manchester United FC,2,2,DRAW
+436268,2024-04-14 13:00:00+00:00,FINISHED,Premier League,33,Liverpool FC,Crystal Palace FC,0,1,AWAY_TEAM
+436272,2024-04-14 13:00:00+00:00,FINISHED,Premier League,33,West Ham United FC,Fulham FC,0,2,AWAY_TEAM
+436264,2024-04-14 15:30:00+00:00,FINISHED,Premier League,33,Arsenal FC,Aston Villa FC,0,2,AWAY_TEAM
+436267,2024-04-15 19:00:00+00:00,FINISHED,Premier League,33,Chelsea FC,Everton FC,6,0,HOME_TEAM
+436278,2024-04-20 14:00:00+00:00,FINISHED,Premier League,34,Luton Town FC,Brentford FC,1,5,AWAY_TEAM
+436280,2024-04-20 14:00:00+00:00,FINISHED,Premier League,34,Sheffield United FC,Burnley FC,1,4,AWAY_TEAM
+436282,2024-04-20 18:30:00+00:00,FINISHED,Premier League,34,Wolverhampton Wanderers FC,Arsenal FC,0,2,AWAY_TEAM
+436276,2024-04-21 12:30:00+00:00,FINISHED,Premier League,34,Everton FC,Nottingham Forest FC,2,0,HOME_TEAM
+436273,2024-04-21 14:00:00+00:00,FINISHED,Premier League,34,Aston Villa FC,AFC Bournemouth,3,1,HOME_TEAM
+436275,2024-04-21 14:00:00+00:00,FINISHED,Premier League,34,Crystal Palace FC,West Ham United FC,5,2,HOME_TEAM
+436277,2024-04-21 15:30:00+00:00,FINISHED,Premier League,34,Fulham FC,Liverpool FC,1,3,AWAY_TEAM
+436223,2024-04-23 19:00:00+00:00,FINISHED,Premier League,29,Arsenal FC,Chelsea FC,5,0,HOME_TEAM
+436232,2024-04-24 18:45:00+00:00,FINISHED,Premier League,29,Wolverhampton Wanderers FC,AFC Bournemouth,0,1,AWAY_TEAM
+436226,2024-04-24 19:00:00+00:00,FINISHED,Premier League,29,Crystal Palace FC,Newcastle United FC,2,0,HOME_TEAM
+436227,2024-04-24 19:00:00+00:00,FINISHED,Premier League,29,Everton FC,Liverpool FC,2,0,HOME_TEAM
+436230,2024-04-24 19:00:00+00:00,FINISHED,Premier League,29,Manchester United FC,Sheffield United FC,4,2,HOME_TEAM
+436224,2024-04-25 19:00:00+00:00,FINISHED,Premier League,29,Brighton & Hove Albion FC,Manchester City FC,0,4,AWAY_TEAM
+436291,2024-04-27 11:30:00+00:00,FINISHED,Premier League,35,West Ham United FC,Liverpool FC,2,2,DRAW
+436286,2024-04-27 14:00:00+00:00,FINISHED,Premier League,35,Fulham FC,Crystal Palace FC,1,1,DRAW
+436287,2024-04-27 14:00:00+00:00,FINISHED,Premier League,35,Manchester United FC,Burnley FC,1,1,DRAW
+436288,2024-04-27 14:00:00+00:00,FINISHED,Premier League,35,Newcastle United FC,Sheffield United FC,5,1,HOME_TEAM
+436292,2024-04-27 14:00:00+00:00,FINISHED,Premier League,35,Wolverhampton Wanderers FC,Luton Town FC,2,1,HOME_TEAM
+436285,2024-04-27 16:30:00+00:00,FINISHED,Premier League,35,Everton FC,Brentford FC,1,0,HOME_TEAM
+436284,2024-04-27 19:00:00+00:00,FINISHED,Premier League,35,Aston Villa FC,Chelsea FC,2,2,DRAW
+436283,2024-04-28 13:00:00+00:00,FINISHED,Premier League,35,AFC Bournemouth,Brighton & Hove Albion FC,3,0,HOME_TEAM
+436290,2024-04-28 13:00:00+00:00,FINISHED,Premier League,35,Tottenham Hotspur FC,Arsenal FC,2,3,AWAY_TEAM
+436289,2024-04-28 15:30:00+00:00,FINISHED,Premier League,35,Nottingham Forest FC,Manchester City FC,0,2,AWAY_TEAM
+436197,2024-05-02 18:30:00+00:00,FINISHED,Premier League,26,Chelsea FC,Tottenham Hotspur FC,2,0,HOME_TEAM
+436300,2024-05-03 19:00:00+00:00,FINISHED,Premier League,36,Luton Town FC,Everton FC,1,1,DRAW
+436293,2024-05-04 11:30:00+00:00,FINISHED,Premier League,36,Arsenal FC,AFC Bournemouth,3,0,HOME_TEAM
+436294,2024-05-04 14:00:00+00:00,FINISHED,Premier League,36,Brentford FC,Fulham FC,0,0,DRAW
+436296,2024-05-04 14:00:00+00:00,FINISHED,Premier League,36,Burnley FC,Newcastle United FC,1,4,AWAY_TEAM
+436302,2024-05-04 14:00:00+00:00,FINISHED,Premier League,36,Sheffield United FC,Nottingham Forest FC,1,3,AWAY_TEAM
+436301,2024-05-04 16:30:00+00:00,FINISHED,Premier League,36,Manchester City FC,Wolverhampton Wanderers FC,5,1,HOME_TEAM
+436295,2024-05-05 13:00:00+00:00,FINISHED,Premier League,36,Brighton & Hove Albion FC,Aston Villa FC,1,0,HOME_TEAM
+436297,2024-05-05 13:00:00+00:00,FINISHED,Premier League,36,Chelsea FC,West Ham United FC,5,0,HOME_TEAM
+436299,2024-05-05 15:30:00+00:00,FINISHED,Premier League,36,Liverpool FC,Tottenham Hotspur FC,4,2,HOME_TEAM
+436298,2024-05-06 19:00:00+00:00,FINISHED,Premier League,36,Crystal Palace FC,Manchester United FC,4,0,HOME_TEAM
+436306,2024-05-11 11:30:00+00:00,FINISHED,Premier League,37,Fulham FC,Manchester City FC,0,4,AWAY_TEAM
+436303,2024-05-11 14:00:00+00:00,FINISHED,Premier League,37,AFC Bournemouth,Brentford FC,1,2,AWAY_TEAM
+436305,2024-05-11 14:00:00+00:00,FINISHED,Premier League,37,Everton FC,Sheffield United FC,1,0,HOME_TEAM
+436308,2024-05-11 14:00:00+00:00,FINISHED,Premier League,37,Newcastle United FC,Brighton & Hove Albion FC,1,1,DRAW
+436310,2024-05-11 14:00:00+00:00,FINISHED,Premier League,37,Tottenham Hotspur FC,Burnley FC,2,1,HOME_TEAM
+436311,2024-05-11 14:00:00+00:00,FINISHED,Premier League,37,West Ham United FC,Luton Town FC,3,1,HOME_TEAM
+436312,2024-05-11 14:00:00+00:00,FINISHED,Premier League,37,Wolverhampton Wanderers FC,Crystal Palace FC,1,3,AWAY_TEAM
+436309,2024-05-11 16:30:00+00:00,FINISHED,Premier League,37,Nottingham Forest FC,Chelsea FC,2,3,AWAY_TEAM
+436307,2024-05-12 15:30:00+00:00,FINISHED,Premier League,37,Manchester United FC,Arsenal FC,0,1,AWAY_TEAM
+436304,2024-05-13 19:00:00+00:00,FINISHED,Premier League,37,Aston Villa FC,Liverpool FC,3,3,DRAW
+436281,2024-05-14 19:00:00+00:00,FINISHED,Premier League,34,Tottenham Hotspur FC,Manchester City FC,0,2,AWAY_TEAM
+436274,2024-05-15 18:45:00+00:00,FINISHED,Premier League,34,Brighton & Hove Albion FC,Chelsea FC,1,2,AWAY_TEAM
+436279,2024-05-15 19:00:00+00:00,FINISHED,Premier League,34,Manchester United FC,Newcastle United FC,3,2,HOME_TEAM
+436313,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Arsenal FC,Everton FC,2,1,HOME_TEAM
+436314,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Brentford FC,Newcastle United FC,2,4,AWAY_TEAM
+436315,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Brighton & Hove Albion FC,Manchester United FC,0,2,AWAY_TEAM
+436316,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Burnley FC,Nottingham Forest FC,1,2,AWAY_TEAM
+436317,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Chelsea FC,AFC Bournemouth,2,1,HOME_TEAM
+436318,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Crystal Palace FC,Aston Villa FC,5,0,HOME_TEAM
+436319,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Liverpool FC,Wolverhampton Wanderers FC,2,0,HOME_TEAM
+436320,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Luton Town FC,Fulham FC,2,4,AWAY_TEAM
+436321,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Manchester City FC,West Ham United FC,3,1,HOME_TEAM
+436322,2024-05-19 15:00:00+00:00,FINISHED,Premier League,38,Sheffield United FC,Tottenham Hotspur FC,0,3,AWAY_TEAM
+438482,2023-08-11 17:30:00+00:00,FINISHED,Primera Division,1,UD Almería,Rayo Vallecano de Madrid,0,2,AWAY_TEAM
+438479,2023-08-11 20:00:00+00:00,FINISHED,Primera Division,1,Sevilla FC,Valencia CF,1,2,AWAY_TEAM
+438481,2023-08-12 15:00:00+00:00,FINISHED,Primera Division,1,Real Sociedad de Fútbol,Girona FC,1,1,DRAW
+438483,2023-08-12 17:30:00+00:00,FINISHED,Primera Division,1,UD Las Palmas,RCD Mallorca,1,1,DRAW
+438474,2023-08-12 19:30:00+00:00,FINISHED,Primera Division,1,Athletic Club,Real Madrid CF,0,2,AWAY_TEAM
+438476,2023-08-13 15:00:00+00:00,FINISHED,Primera Division,1,RC Celta de Vigo,CA Osasuna,0,2,AWAY_TEAM
+438480,2023-08-13 17:30:00+00:00,FINISHED,Primera Division,1,Villarreal CF,Real Betis Balompié,1,2,AWAY_TEAM
+438478,2023-08-13 19:30:00+00:00,FINISHED,Primera Division,1,Getafe CF,FC Barcelona,0,0,DRAW
+438477,2023-08-14 17:30:00+00:00,FINISHED,Primera Division,1,Cádiz CF,Deportivo Alavés,1,0,HOME_TEAM
+438475,2023-08-14 19:30:00+00:00,FINISHED,Primera Division,1,Club Atlético de Madrid,Granada CF,3,1,HOME_TEAM
+438491,2023-08-18 17:30:00+00:00,FINISHED,Primera Division,2,RCD Mallorca,Villarreal CF,0,1,AWAY_TEAM
+438490,2023-08-18 19:30:00+00:00,FINISHED,Primera Division,2,Valencia CF,UD Las Palmas,1,0,HOME_TEAM
+438492,2023-08-19 15:00:00+00:00,FINISHED,Primera Division,2,Real Sociedad de Fútbol,RC Celta de Vigo,1,1,DRAW
+438493,2023-08-19 17:30:00+00:00,FINISHED,Primera Division,2,UD Almería,Real Madrid CF,1,3,AWAY_TEAM
+438485,2023-08-19 19:30:00+00:00,FINISHED,Primera Division,2,CA Osasuna,Athletic Club,0,2,AWAY_TEAM
+438488,2023-08-20 17:00:00+00:00,FINISHED,Primera Division,2,Girona FC,Getafe CF,3,0,HOME_TEAM
+438487,2023-08-20 17:30:00+00:00,FINISHED,Primera Division,2,FC Barcelona,Cádiz CF,2,0,HOME_TEAM
+438484,2023-08-20 19:30:00+00:00,FINISHED,Primera Division,2,Real Betis Balompié,Club Atlético de Madrid,0,0,DRAW
+438486,2023-08-21 17:00:00+00:00,FINISHED,Primera Division,2,Deportivo Alavés,Sevilla FC,4,3,HOME_TEAM
+438489,2023-08-21 19:30:00+00:00,FINISHED,Primera Division,2,Granada CF,Rayo Vallecano de Madrid,0,2,AWAY_TEAM
+438503,2023-08-25 17:30:00+00:00,FINISHED,Primera Division,3,UD Las Palmas,Real Sociedad de Fútbol,0,0,DRAW
+438495,2023-08-25 19:30:00+00:00,FINISHED,Primera Division,3,RC Celta de Vigo,Real Madrid CF,0,1,AWAY_TEAM
+438496,2023-08-26 17:00:00+00:00,FINISHED,Primera Division,3,Cádiz CF,UD Almería,1,1,DRAW
+438498,2023-08-26 17:30:00+00:00,FINISHED,Primera Division,3,Granada CF,RCD Mallorca,3,2,HOME_TEAM
+438499,2023-08-26 19:30:00+00:00,FINISHED,Primera Division,3,Sevilla FC,Girona FC,1,2,AWAY_TEAM
+438501,2023-08-27 15:30:00+00:00,FINISHED,Primera Division,3,Villarreal CF,FC Barcelona,3,4,AWAY_TEAM
+438500,2023-08-27 17:30:00+00:00,FINISHED,Primera Division,3,Valencia CF,CA Osasuna,1,2,AWAY_TEAM
+438494,2023-08-27 19:30:00+00:00,FINISHED,Primera Division,3,Athletic Club,Real Betis Balompié,4,2,HOME_TEAM
+438497,2023-08-28 17:30:00+00:00,FINISHED,Primera Division,3,Getafe CF,Deportivo Alavés,1,0,HOME_TEAM
+438502,2023-08-28 19:30:00+00:00,FINISHED,Primera Division,3,Rayo Vallecano de Madrid,Club Atlético de Madrid,0,7,AWAY_TEAM
+438508,2023-09-01 17:30:00+00:00,FINISHED,Primera Division,4,Cádiz CF,Villarreal CF,3,1,HOME_TEAM
+438513,2023-09-01 20:00:00+00:00,FINISHED,Primera Division,4,UD Almería,RC Celta de Vigo,2,3,AWAY_TEAM
+438512,2023-09-02 12:00:00+00:00,FINISHED,Primera Division,4,Real Sociedad de Fútbol,Granada CF,5,3,HOME_TEAM
+438511,2023-09-02 14:15:00+00:00,FINISHED,Primera Division,4,Real Madrid CF,Getafe CF,2,1,HOME_TEAM
+438507,2023-09-02 16:30:00+00:00,FINISHED,Primera Division,4,Deportivo Alavés,Valencia CF,1,0,HOME_TEAM
+438505,2023-09-02 19:00:00+00:00,FINISHED,Primera Division,4,Real Betis Balompié,Rayo Vallecano de Madrid,1,0,HOME_TEAM
+438509,2023-09-03 12:00:00+00:00,FINISHED,Primera Division,4,Girona FC,UD Las Palmas,1,0,HOME_TEAM
+438510,2023-09-03 14:15:00+00:00,FINISHED,Primera Division,4,RCD Mallorca,Athletic Club,0,0,DRAW
+438506,2023-09-03 19:00:00+00:00,FINISHED,Primera Division,4,CA Osasuna,FC Barcelona,1,2,AWAY_TEAM
+438522,2023-09-15 19:00:00+00:00,FINISHED,Primera Division,5,Rayo Vallecano de Madrid,Deportivo Alavés,2,0,HOME_TEAM
+438514,2023-09-16 12:00:00+00:00,FINISHED,Primera Division,5,Athletic Club,Cádiz CF,3,0,HOME_TEAM
+438520,2023-09-16 14:15:00+00:00,FINISHED,Primera Division,5,Valencia CF,Club Atlético de Madrid,3,0,HOME_TEAM
+438515,2023-09-16 16:30:00+00:00,FINISHED,Primera Division,5,RC Celta de Vigo,RCD Mallorca,0,1,AWAY_TEAM
+438516,2023-09-16 19:00:00+00:00,FINISHED,Primera Division,5,FC Barcelona,Real Betis Balompié,5,0,HOME_TEAM
+438517,2023-09-17 12:00:00+00:00,FINISHED,Primera Division,5,Getafe CF,CA Osasuna,3,2,HOME_TEAM
+438521,2023-09-17 14:15:00+00:00,FINISHED,Primera Division,5,Villarreal CF,UD Almería,2,1,HOME_TEAM
+438519,2023-09-17 16:30:00+00:00,FINISHED,Primera Division,5,Sevilla FC,UD Las Palmas,1,0,HOME_TEAM
+438523,2023-09-17 19:00:00+00:00,FINISHED,Primera Division,5,Real Madrid CF,Real Sociedad de Fútbol,2,1,HOME_TEAM
+438518,2023-09-18 19:00:00+00:00,FINISHED,Primera Division,5,Granada CF,Girona FC,2,4,AWAY_TEAM
+438527,2023-09-22 19:00:00+00:00,FINISHED,Primera Division,6,Deportivo Alavés,Athletic Club,0,2,AWAY_TEAM
+438529,2023-09-23 12:00:00+00:00,FINISHED,Primera Division,6,Girona FC,RCD Mallorca,5,3,HOME_TEAM
+438526,2023-09-23 14:15:00+00:00,FINISHED,Primera Division,6,CA Osasuna,Sevilla FC,0,0,DRAW
+438528,2023-09-23 16:30:00+00:00,FINISHED,Primera Division,6,FC Barcelona,RC Celta de Vigo,3,2,HOME_TEAM
+438532,2023-09-23 19:00:00+00:00,FINISHED,Primera Division,6,UD Almería,Valencia CF,2,2,DRAW
+438531,2023-09-24 12:00:00+00:00,FINISHED,Primera Division,6,Real Sociedad de Fútbol,Getafe CF,4,3,HOME_TEAM
+438530,2023-09-24 14:15:00+00:00,FINISHED,Primera Division,6,Rayo Vallecano de Madrid,Villarreal CF,1,1,DRAW
+438533,2023-09-24 16:30:00+00:00,FINISHED,Primera Division,6,UD Las Palmas,Granada CF,1,0,HOME_TEAM
+438525,2023-09-24 16:30:00+00:00,FINISHED,Primera Division,6,Real Betis Balompié,Cádiz CF,1,1,DRAW
+438524,2023-09-24 19:00:00+00:00,FINISHED,Primera Division,6,Club Atlético de Madrid,Real Madrid CF,3,1,HOME_TEAM
+438539,2023-09-26 17:00:00+00:00,FINISHED,Primera Division,7,Sevilla FC,UD Almería,5,1,HOME_TEAM
+438542,2023-09-26 19:30:00+00:00,FINISHED,Primera Division,7,RCD Mallorca,FC Barcelona,2,2,DRAW
+438534,2023-09-27 17:00:00+00:00,FINISHED,Primera Division,7,Athletic Club,Getafe CF,2,2,DRAW
+438541,2023-09-27 17:00:00+00:00,FINISHED,Primera Division,7,Villarreal CF,Girona FC,1,2,AWAY_TEAM
+438543,2023-09-27 17:00:00+00:00,FINISHED,Primera Division,7,Real Madrid CF,UD Las Palmas,2,0,HOME_TEAM
+438537,2023-09-27 19:30:00+00:00,FINISHED,Primera Division,7,Cádiz CF,Rayo Vallecano de Madrid,0,0,DRAW
+438540,2023-09-27 19:30:00+00:00,FINISHED,Primera Division,7,Valencia CF,Real Sociedad de Fútbol,0,1,AWAY_TEAM
+438536,2023-09-28 17:00:00+00:00,FINISHED,Primera Division,7,RC Celta de Vigo,Deportivo Alavés,1,1,DRAW
+438538,2023-09-28 17:00:00+00:00,FINISHED,Primera Division,7,Granada CF,Real Betis Balompié,1,1,DRAW
+438535,2023-09-28 19:30:00+00:00,FINISHED,Primera Division,7,CA Osasuna,Club Atlético de Madrid,0,2,AWAY_TEAM
+438547,2023-09-29 19:00:00+00:00,FINISHED,Primera Division,8,FC Barcelona,Sevilla FC,1,0,HOME_TEAM
+438548,2023-09-30 12:00:00+00:00,FINISHED,Primera Division,8,Getafe CF,Villarreal CF,0,0,DRAW
+438550,2023-09-30 14:15:00+00:00,FINISHED,Primera Division,8,Rayo Vallecano de Madrid,RCD Mallorca,2,2,DRAW
+438549,2023-09-30 16:30:00+00:00,FINISHED,Primera Division,8,Girona FC,Real Madrid CF,0,3,AWAY_TEAM
+438551,2023-09-30 19:00:00+00:00,FINISHED,Primera Division,8,Real Sociedad de Fútbol,Athletic Club,3,0,HOME_TEAM
+438552,2023-10-01 12:00:00+00:00,FINISHED,Primera Division,8,UD Almería,Granada CF,3,3,DRAW
+438546,2023-10-01 14:15:00+00:00,FINISHED,Primera Division,8,Deportivo Alavés,CA Osasuna,0,2,AWAY_TEAM
+438544,2023-10-01 19:00:00+00:00,FINISHED,Primera Division,8,Club Atlético de Madrid,Cádiz CF,3,2,HOME_TEAM
+438545,2023-10-01 19:00:00+00:00,FINISHED,Primera Division,8,Real Betis Balompié,Valencia CF,3,0,HOME_TEAM
+438553,2023-10-02 19:00:00+00:00,FINISHED,Primera Division,8,UD Las Palmas,RC Celta de Vigo,2,1,HOME_TEAM
+438554,2023-10-06 19:00:00+00:00,FINISHED,Primera Division,9,Athletic Club,UD Almería,3,0,HOME_TEAM
+438558,2023-10-07 12:00:00+00:00,FINISHED,Primera Division,9,Cádiz CF,Girona FC,0,1,AWAY_TEAM
+438563,2023-10-07 14:15:00+00:00,FINISHED,Primera Division,9,Real Madrid CF,CA Osasuna,4,0,HOME_TEAM
+438562,2023-10-07 16:30:00+00:00,FINISHED,Primera Division,9,RCD Mallorca,Valencia CF,1,1,DRAW
+438560,2023-10-07 19:00:00+00:00,FINISHED,Primera Division,9,Sevilla FC,Rayo Vallecano de Madrid,2,2,DRAW
+438561,2023-10-08 12:00:00+00:00,FINISHED,Primera Division,9,Villarreal CF,UD Las Palmas,1,2,AWAY_TEAM
+438555,2023-10-08 14:15:00+00:00,FINISHED,Primera Division,9,Club Atlético de Madrid,Real Sociedad de Fútbol,2,1,HOME_TEAM
+438556,2023-10-08 16:30:00+00:00,FINISHED,Primera Division,9,RC Celta de Vigo,Getafe CF,2,2,DRAW
+438557,2023-10-08 16:30:00+00:00,FINISHED,Primera Division,9,Deportivo Alavés,Real Betis Balompié,1,1,DRAW
+438559,2023-10-08 19:00:00+00:00,FINISHED,Primera Division,9,Granada CF,FC Barcelona,2,2,DRAW
+438564,2023-10-20 19:00:00+00:00,FINISHED,Primera Division,10,CA Osasuna,Granada CF,2,0,HOME_TEAM
+438572,2023-10-21 12:00:00+00:00,FINISHED,Primera Division,10,Real Sociedad de Fútbol,RCD Mallorca,1,0,HOME_TEAM
+438567,2023-10-21 14:15:00+00:00,FINISHED,Primera Division,10,Getafe CF,Real Betis Balompié,1,1,DRAW
+438569,2023-10-21 16:30:00+00:00,FINISHED,Primera Division,10,Sevilla FC,Real Madrid CF,1,1,DRAW
+438565,2023-10-21 19:00:00+00:00,FINISHED,Primera Division,10,RC Celta de Vigo,Club Atlético de Madrid,0,3,AWAY_TEAM
+438573,2023-10-22 12:00:00+00:00,FINISHED,Primera Division,10,UD Las Palmas,Rayo Vallecano de Madrid,0,1,AWAY_TEAM
+438568,2023-10-22 14:15:00+00:00,FINISHED,Primera Division,10,Girona FC,UD Almería,5,2,HOME_TEAM
+438571,2023-10-22 16:30:00+00:00,FINISHED,Primera Division,10,Villarreal CF,Deportivo Alavés,1,1,DRAW
+438566,2023-10-22 19:00:00+00:00,FINISHED,Primera Division,10,FC Barcelona,Athletic Club,1,0,HOME_TEAM
+438570,2023-10-23 19:00:00+00:00,FINISHED,Primera Division,10,Valencia CF,Cádiz CF,2,0,HOME_TEAM
+438579,2023-10-27 19:00:00+00:00,FINISHED,Primera Division,11,Girona FC,RC Celta de Vigo,1,0,HOME_TEAM
+438583,2023-10-28 12:00:00+00:00,FINISHED,Primera Division,11,UD Almería,UD Las Palmas,1,2,AWAY_TEAM
+438577,2023-10-28 14:15:00+00:00,FINISHED,Primera Division,11,FC Barcelona,Real Madrid CF,1,2,AWAY_TEAM
+438582,2023-10-28 16:30:00+00:00,FINISHED,Primera Division,11,RCD Mallorca,Getafe CF,0,0,DRAW
+438578,2023-10-28 19:00:00+00:00,FINISHED,Primera Division,11,Cádiz CF,Sevilla FC,2,2,DRAW
+438576,2023-10-29 13:00:00+00:00,FINISHED,Primera Division,11,Real Betis Balompié,CA Osasuna,2,1,HOME_TEAM
+438581,2023-10-29 15:15:00+00:00,FINISHED,Primera Division,11,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,2,2,DRAW
+438574,2023-10-29 17:30:00+00:00,FINISHED,Primera Division,11,Athletic Club,Valencia CF,2,2,DRAW
+438575,2023-10-29 20:00:00+00:00,FINISHED,Primera Division,11,Club Atlético de Madrid,Deportivo Alavés,2,1,HOME_TEAM
+438580,2023-10-30 20:00:00+00:00,FINISHED,Primera Division,11,Granada CF,Villarreal CF,2,3,AWAY_TEAM
+438593,2023-11-03 20:00:00+00:00,FINISHED,Primera Division,12,UD Las Palmas,Club Atlético de Madrid,2,1,HOME_TEAM
+438585,2023-11-04 13:00:00+00:00,FINISHED,Primera Division,12,CA Osasuna,Girona FC,2,4,AWAY_TEAM
+438584,2023-11-04 15:15:00+00:00,FINISHED,Primera Division,12,Real Betis Balompié,RCD Mallorca,2,0,HOME_TEAM
+438586,2023-11-04 17:30:00+00:00,FINISHED,Primera Division,12,RC Celta de Vigo,Sevilla FC,1,1,DRAW
+438592,2023-11-04 20:00:00+00:00,FINISHED,Primera Division,12,Real Sociedad de Fútbol,FC Barcelona,0,1,AWAY_TEAM
+438587,2023-11-05 13:00:00+00:00,FINISHED,Primera Division,12,Deportivo Alavés,UD Almería,1,0,HOME_TEAM
+438589,2023-11-05 15:15:00+00:00,FINISHED,Primera Division,12,Valencia CF,Granada CF,1,0,HOME_TEAM
+438590,2023-11-05 17:30:00+00:00,FINISHED,Primera Division,12,Villarreal CF,Athletic Club,2,3,AWAY_TEAM
+438591,2023-11-05 20:00:00+00:00,FINISHED,Primera Division,12,Real Madrid CF,Rayo Vallecano de Madrid,0,0,DRAW
+438588,2023-11-06 20:00:00+00:00,FINISHED,Primera Division,12,Getafe CF,Cádiz CF,1,0,HOME_TEAM
+438594,2023-11-10 20:00:00+00:00,FINISHED,Primera Division,13,Athletic Club,RC Celta de Vigo,4,3,HOME_TEAM
+438600,2023-11-11 13:00:00+00:00,FINISHED,Primera Division,13,Rayo Vallecano de Madrid,Girona FC,1,2,AWAY_TEAM
+438603,2023-11-11 15:15:00+00:00,FINISHED,Primera Division,13,UD Almería,Real Sociedad de Fútbol,1,3,AWAY_TEAM
+438596,2023-11-11 17:30:00+00:00,FINISHED,Primera Division,13,CA Osasuna,UD Las Palmas,1,1,DRAW
+438598,2023-11-11 17:30:00+00:00,FINISHED,Primera Division,13,Granada CF,Getafe CF,1,1,DRAW
+438602,2023-11-11 20:00:00+00:00,FINISHED,Primera Division,13,Real Madrid CF,Valencia CF,5,1,HOME_TEAM
+438597,2023-11-12 15:15:00+00:00,FINISHED,Primera Division,13,FC Barcelona,Deportivo Alavés,2,1,HOME_TEAM
+438599,2023-11-12 17:30:00+00:00,FINISHED,Primera Division,13,Sevilla FC,Real Betis Balompié,1,1,DRAW
+438595,2023-11-12 20:00:00+00:00,FINISHED,Primera Division,13,Club Atlético de Madrid,Villarreal CF,3,1,HOME_TEAM
+438606,2023-11-24 20:00:00+00:00,FINISHED,Primera Division,14,Deportivo Alavés,Granada CF,3,1,HOME_TEAM
+438612,2023-11-25 13:00:00+00:00,FINISHED,Primera Division,14,Rayo Vallecano de Madrid,FC Barcelona,1,1,DRAW
+438610,2023-11-25 15:15:00+00:00,FINISHED,Primera Division,14,Valencia CF,RC Celta de Vigo,0,0,DRAW
+438608,2023-11-25 17:30:00+00:00,FINISHED,Primera Division,14,Getafe CF,UD Almería,2,1,HOME_TEAM
+438604,2023-11-25 20:00:00+00:00,FINISHED,Primera Division,14,Club Atlético de Madrid,RCD Mallorca,1,0,HOME_TEAM
+438611,2023-11-26 13:00:00+00:00,FINISHED,Primera Division,14,Villarreal CF,CA Osasuna,3,1,HOME_TEAM
+438613,2023-11-26 15:15:00+00:00,FINISHED,Primera Division,14,Real Sociedad de Fútbol,Sevilla FC,2,1,HOME_TEAM
+438607,2023-11-26 17:30:00+00:00,FINISHED,Primera Division,14,Cádiz CF,Real Madrid CF,0,3,AWAY_TEAM
+438605,2023-11-26 20:00:00+00:00,FINISHED,Primera Division,14,Real Betis Balompié,UD Las Palmas,1,0,HOME_TEAM
+438609,2023-11-27 20:00:00+00:00,FINISHED,Primera Division,14,Girona FC,Athletic Club,1,1,DRAW
+438601,2023-11-29 20:00:00+00:00,FINISHED,Primera Division,13,RCD Mallorca,Cádiz CF,1,1,DRAW
+438623,2023-12-01 20:00:00+00:00,FINISHED,Primera Division,15,UD Las Palmas,Getafe CF,2,0,HOME_TEAM
+438618,2023-12-02 13:00:00+00:00,FINISHED,Primera Division,15,Girona FC,Valencia CF,2,1,HOME_TEAM
+438614,2023-12-02 15:15:00+00:00,FINISHED,Primera Division,15,Athletic Club,Rayo Vallecano de Madrid,4,0,HOME_TEAM
+438621,2023-12-02 17:30:00+00:00,FINISHED,Primera Division,15,Real Madrid CF,Granada CF,2,0,HOME_TEAM
+438615,2023-12-02 20:00:00+00:00,FINISHED,Primera Division,15,CA Osasuna,Real Sociedad de Fútbol,1,1,DRAW
+438620,2023-12-03 13:00:00+00:00,FINISHED,Primera Division,15,RCD Mallorca,Deportivo Alavés,0,0,DRAW
+438622,2023-12-03 15:15:00+00:00,FINISHED,Primera Division,15,UD Almería,Real Betis Balompié,0,0,DRAW
+438619,2023-12-03 17:30:00+00:00,FINISHED,Primera Division,15,Sevilla FC,Villarreal CF,1,1,DRAW
+438617,2023-12-03 20:00:00+00:00,FINISHED,Primera Division,15,FC Barcelona,Club Atlético de Madrid,1,0,HOME_TEAM
+438616,2023-12-04 20:00:00+00:00,FINISHED,Primera Division,15,RC Celta de Vigo,Cádiz CF,1,1,DRAW
+438629,2023-12-08 20:00:00+00:00,FINISHED,Primera Division,16,Getafe CF,Valencia CF,1,0,HOME_TEAM
+438626,2023-12-09 13:00:00+00:00,FINISHED,Primera Division,16,Deportivo Alavés,UD Las Palmas,0,1,AWAY_TEAM
+438625,2023-12-09 15:15:00+00:00,FINISHED,Primera Division,16,Real Betis Balompié,Real Madrid CF,1,1,DRAW
+438631,2023-12-09 17:30:00+00:00,FINISHED,Primera Division,16,Villarreal CF,Real Sociedad de Fútbol,0,3,AWAY_TEAM
+438633,2023-12-09 20:00:00+00:00,FINISHED,Primera Division,16,RCD Mallorca,Sevilla FC,1,0,HOME_TEAM
+438624,2023-12-10 13:00:00+00:00,FINISHED,Primera Division,16,Club Atlético de Madrid,UD Almería,2,1,HOME_TEAM
+438628,2023-12-10 17:30:00+00:00,FINISHED,Primera Division,16,Cádiz CF,CA Osasuna,1,1,DRAW
+438627,2023-12-10 20:00:00+00:00,FINISHED,Primera Division,16,FC Barcelona,Girona FC,2,4,AWAY_TEAM
+438630,2023-12-11 20:00:00+00:00,FINISHED,Primera Division,16,Granada CF,Athletic Club,1,1,DRAW
+438632,2023-12-11 20:00:00+00:00,FINISHED,Primera Division,16,Rayo Vallecano de Madrid,RC Celta de Vigo,0,0,DRAW
+438635,2023-12-15 20:00:00+00:00,FINISHED,Primera Division,17,CA Osasuna,Rayo Vallecano de Madrid,1,0,HOME_TEAM
+438636,2023-12-16 13:00:00+00:00,FINISHED,Primera Division,17,RC Celta de Vigo,Granada CF,1,0,HOME_TEAM
+438634,2023-12-16 15:15:00+00:00,FINISHED,Primera Division,17,Athletic Club,Club Atlético de Madrid,2,0,HOME_TEAM
+438638,2023-12-16 17:30:00+00:00,FINISHED,Primera Division,17,Sevilla FC,Getafe CF,0,3,AWAY_TEAM
+438639,2023-12-16 20:00:00+00:00,FINISHED,Primera Division,17,Valencia CF,FC Barcelona,1,1,DRAW
+438642,2023-12-17 13:00:00+00:00,FINISHED,Primera Division,17,UD Almería,RCD Mallorca,0,0,DRAW
+438641,2023-12-17 15:15:00+00:00,FINISHED,Primera Division,17,Real Sociedad de Fútbol,Real Betis Balompié,0,0,DRAW
+438643,2023-12-17 17:30:00+00:00,FINISHED,Primera Division,17,UD Las Palmas,Cádiz CF,1,1,DRAW
+438640,2023-12-17 20:00:00+00:00,FINISHED,Primera Division,17,Real Madrid CF,Villarreal CF,4,1,HOME_TEAM
+438637,2023-12-18 20:00:00+00:00,FINISHED,Primera Division,17,Girona FC,Deportivo Alavés,3,0,HOME_TEAM
+438652,2023-12-19 18:00:00+00:00,FINISHED,Primera Division,18,Rayo Vallecano de Madrid,Valencia CF,0,1,AWAY_TEAM
+438645,2023-12-19 20:30:00+00:00,FINISHED,Primera Division,18,Club Atlético de Madrid,Getafe CF,3,3,DRAW
+438650,2023-12-19 20:30:00+00:00,FINISHED,Primera Division,18,Granada CF,Sevilla FC,0,3,AWAY_TEAM
+438648,2023-12-20 18:00:00+00:00,FINISHED,Primera Division,18,FC Barcelona,UD Almería,3,2,HOME_TEAM
+438644,2023-12-20 20:30:00+00:00,FINISHED,Primera Division,18,Athletic Club,UD Las Palmas,1,0,HOME_TEAM
+438651,2023-12-20 20:30:00+00:00,FINISHED,Primera Division,18,Villarreal CF,RC Celta de Vigo,3,2,HOME_TEAM
+438646,2023-12-21 18:00:00+00:00,FINISHED,Primera Division,18,Real Betis Balompié,Girona FC,1,1,DRAW
+438649,2023-12-21 18:00:00+00:00,FINISHED,Primera Division,18,Cádiz CF,Real Sociedad de Fútbol,0,0,DRAW
+438647,2023-12-21 20:30:00+00:00,FINISHED,Primera Division,18,Deportivo Alavés,Real Madrid CF,0,1,AWAY_TEAM
+438653,2023-12-21 20:30:00+00:00,FINISHED,Primera Division,18,RCD Mallorca,CA Osasuna,3,2,HOME_TEAM
+438504,2023-12-23 15:15:00+00:00,FINISHED,Primera Division,4,Club Atlético de Madrid,Sevilla FC,1,0,HOME_TEAM
+438656,2024-01-02 16:00:00+00:00,FINISHED,Primera Division,19,Getafe CF,Rayo Vallecano de Madrid,0,2,AWAY_TEAM
+438662,2024-01-02 18:15:00+00:00,FINISHED,Primera Division,19,Real Sociedad de Fútbol,Deportivo Alavés,1,1,DRAW
+438660,2024-01-02 20:30:00+00:00,FINISHED,Primera Division,19,Valencia CF,Villarreal CF,3,1,HOME_TEAM
+438658,2024-01-03 16:00:00+00:00,FINISHED,Primera Division,19,Granada CF,Cádiz CF,2,0,HOME_TEAM
+438655,2024-01-03 18:15:00+00:00,FINISHED,Primera Division,19,RC Celta de Vigo,Real Betis Balompié,2,1,HOME_TEAM
+438661,2024-01-03 18:15:00+00:00,FINISHED,Primera Division,19,Real Madrid CF,RCD Mallorca,1,0,HOME_TEAM
+438657,2024-01-03 20:30:00+00:00,FINISHED,Primera Division,19,Girona FC,Club Atlético de Madrid,4,3,HOME_TEAM
+438654,2024-01-04 16:00:00+00:00,FINISHED,Primera Division,19,CA Osasuna,UD Almería,1,0,HOME_TEAM
+438659,2024-01-04 18:15:00+00:00,FINISHED,Primera Division,19,Sevilla FC,Athletic Club,0,2,AWAY_TEAM
+438663,2024-01-04 20:30:00+00:00,FINISHED,Primera Division,19,UD Las Palmas,FC Barcelona,1,2,AWAY_TEAM
+438670,2024-01-12 20:00:00+00:00,FINISHED,Primera Division,20,Sevilla FC,Deportivo Alavés,2,3,AWAY_TEAM
+438673,2024-01-13 13:00:00+00:00,FINISHED,Primera Division,20,UD Las Palmas,Villarreal CF,3,0,HOME_TEAM
+438671,2024-01-13 15:15:00+00:00,FINISHED,Primera Division,20,RCD Mallorca,RC Celta de Vigo,1,1,DRAW
+438664,2024-01-13 17:30:00+00:00,FINISHED,Primera Division,20,Athletic Club,Real Sociedad de Fútbol,2,1,HOME_TEAM
+438666,2024-01-13 20:00:00+00:00,FINISHED,Primera Division,20,Real Betis Balompié,Granada CF,1,0,HOME_TEAM
+438672,2024-01-14 13:00:00+00:00,FINISHED,Primera Division,20,UD Almería,Girona FC,0,0,DRAW
+438668,2024-01-14 15:15:00+00:00,FINISHED,Primera Division,20,Cádiz CF,Valencia CF,1,4,AWAY_TEAM
+438677,2024-01-19 20:00:00+00:00,FINISHED,Primera Division,21,Deportivo Alavés,Cádiz CF,1,0,HOME_TEAM
+438682,2024-01-20 13:00:00+00:00,FINISHED,Primera Division,21,Rayo Vallecano de Madrid,UD Las Palmas,0,2,AWAY_TEAM
+438681,2024-01-20 15:15:00+00:00,FINISHED,Primera Division,21,Villarreal CF,RCD Mallorca,1,1,DRAW
+438680,2024-01-20 17:30:00+00:00,FINISHED,Primera Division,21,Valencia CF,Athletic Club,1,0,HOME_TEAM
+438676,2024-01-20 20:00:00+00:00,FINISHED,Primera Division,21,RC Celta de Vigo,Real Sociedad de Fútbol,0,1,AWAY_TEAM
+438675,2024-01-21 13:00:00+00:00,FINISHED,Primera Division,21,CA Osasuna,Getafe CF,3,2,HOME_TEAM
+438683,2024-01-21 15:15:00+00:00,FINISHED,Primera Division,21,Real Madrid CF,UD Almería,3,2,HOME_TEAM
+438674,2024-01-21 17:30:00+00:00,FINISHED,Primera Division,21,Real Betis Balompié,FC Barcelona,2,4,AWAY_TEAM
+438678,2024-01-21 20:00:00+00:00,FINISHED,Primera Division,21,Girona FC,Sevilla FC,5,1,HOME_TEAM
+438679,2024-01-22 20:00:00+00:00,FINISHED,Primera Division,21,Granada CF,Club Atlético de Madrid,0,1,AWAY_TEAM
+438692,2024-01-26 20:00:00+00:00,FINISHED,Primera Division,22,UD Almería,Deportivo Alavés,0,3,AWAY_TEAM
+438691,2024-01-27 13:00:00+00:00,FINISHED,Primera Division,22,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,0,0,DRAW
+438693,2024-01-27 15:15:00+00:00,FINISHED,Primera Division,22,UD Las Palmas,Real Madrid CF,1,2,AWAY_TEAM
+438686,2024-01-27 17:30:00+00:00,FINISHED,Primera Division,22,FC Barcelona,Villarreal CF,3,5,AWAY_TEAM
+438690,2024-01-27 20:00:00+00:00,FINISHED,Primera Division,22,RCD Mallorca,Real Betis Balompié,0,1,AWAY_TEAM
+438685,2024-01-28 13:00:00+00:00,FINISHED,Primera Division,22,RC Celta de Vigo,Girona FC,0,1,AWAY_TEAM
+438687,2024-01-28 15:15:00+00:00,FINISHED,Primera Division,22,Cádiz CF,Athletic Club,0,0,DRAW
+438689,2024-01-28 17:30:00+00:00,FINISHED,Primera Division,22,Sevilla FC,CA Osasuna,1,1,DRAW
+438684,2024-01-28 20:00:00+00:00,FINISHED,Primera Division,22,Club Atlético de Madrid,Valencia CF,2,0,HOME_TEAM
+438688,2024-01-29 20:00:00+00:00,FINISHED,Primera Division,22,Getafe CF,Granada CF,2,0,HOME_TEAM
+438667,2024-01-31 18:00:00+00:00,FINISHED,Primera Division,20,FC Barcelona,CA Osasuna,1,0,HOME_TEAM
+438665,2024-01-31 20:00:00+00:00,FINISHED,Primera Division,20,Club Atlético de Madrid,Rayo Vallecano de Madrid,2,1,HOME_TEAM
+438669,2024-02-01 20:00:00+00:00,FINISHED,Primera Division,20,Getafe CF,Real Madrid CF,0,2,AWAY_TEAM
+438694,2024-02-02 20:00:00+00:00,FINISHED,Primera Division,23,Athletic Club,RCD Mallorca,4,0,HOME_TEAM
+438700,2024-02-03 13:00:00+00:00,FINISHED,Primera Division,23,Valencia CF,UD Almería,2,1,HOME_TEAM
+438699,2024-02-03 15:15:00+00:00,FINISHED,Primera Division,23,Granada CF,UD Las Palmas,1,1,DRAW
+438697,2024-02-03 17:30:00+00:00,FINISHED,Primera Division,23,Deportivo Alavés,FC Barcelona,1,3,AWAY_TEAM
+438698,2024-02-03 20:00:00+00:00,FINISHED,Primera Division,23,Girona FC,Real Sociedad de Fútbol,0,0,DRAW
+438701,2024-02-04 13:00:00+00:00,FINISHED,Primera Division,23,Villarreal CF,Cádiz CF,0,0,DRAW
+438696,2024-02-04 15:15:00+00:00,FINISHED,Primera Division,23,CA Osasuna,RC Celta de Vigo,0,3,AWAY_TEAM
+438695,2024-02-04 17:30:00+00:00,FINISHED,Primera Division,23,Real Betis Balompié,Getafe CF,1,1,DRAW
+438703,2024-02-04 20:00:00+00:00,FINISHED,Primera Division,23,Real Madrid CF,Club Atlético de Madrid,1,1,DRAW
+438702,2024-02-05 20:00:00+00:00,FINISHED,Primera Division,23,Rayo Vallecano de Madrid,Sevilla FC,1,2,AWAY_TEAM
+438706,2024-02-09 20:00:00+00:00,FINISHED,Primera Division,24,Cádiz CF,Real Betis Balompié,0,2,AWAY_TEAM
+438704,2024-02-10 13:00:00+00:00,FINISHED,Primera Division,24,Deportivo Alavés,Villarreal CF,1,1,DRAW
+438711,2024-02-10 15:15:00+00:00,FINISHED,Primera Division,24,Real Sociedad de Fútbol,CA Osasuna,0,1,AWAY_TEAM
+438710,2024-02-10 17:30:00+00:00,FINISHED,Primera Division,24,Real Madrid CF,Girona FC,4,0,HOME_TEAM
+438713,2024-02-10 20:00:00+00:00,FINISHED,Primera Division,24,UD Las Palmas,Valencia CF,2,0,HOME_TEAM
+438707,2024-02-11 13:00:00+00:00,FINISHED,Primera Division,24,Getafe CF,RC Celta de Vigo,3,2,HOME_TEAM
+438709,2024-02-11 15:15:00+00:00,FINISHED,Primera Division,24,RCD Mallorca,Rayo Vallecano de Madrid,2,1,HOME_TEAM
+438708,2024-02-11 17:30:00+00:00,FINISHED,Primera Division,24,Sevilla FC,Club Atlético de Madrid,1,0,HOME_TEAM
+438705,2024-02-11 20:00:00+00:00,FINISHED,Primera Division,24,FC Barcelona,Granada CF,3,3,DRAW
+438712,2024-02-12 20:00:00+00:00,FINISHED,Primera Division,24,UD Almería,Athletic Club,0,0,DRAW
+438721,2024-02-16 20:00:00+00:00,FINISHED,Primera Division,25,Villarreal CF,Getafe CF,1,1,DRAW
+438715,2024-02-17 13:00:00+00:00,FINISHED,Primera Division,25,Club Atlético de Madrid,UD Las Palmas,5,0,HOME_TEAM
+438717,2024-02-17 15:15:00+00:00,FINISHED,Primera Division,25,CA Osasuna,Cádiz CF,2,0,HOME_TEAM
+438718,2024-02-17 17:30:00+00:00,FINISHED,Primera Division,25,RC Celta de Vigo,FC Barcelona,1,2,AWAY_TEAM
+438720,2024-02-17 20:00:00+00:00,FINISHED,Primera Division,25,Valencia CF,Sevilla FC,0,0,DRAW
+438722,2024-02-18 13:00:00+00:00,FINISHED,Primera Division,25,Rayo Vallecano de Madrid,Real Madrid CF,1,1,DRAW
+438719,2024-02-18 15:15:00+00:00,FINISHED,Primera Division,25,Granada CF,UD Almería,1,1,DRAW
+438723,2024-02-18 17:30:00+00:00,FINISHED,Primera Division,25,RCD Mallorca,Real Sociedad de Fútbol,1,2,AWAY_TEAM
+438716,2024-02-18 20:00:00+00:00,FINISHED,Primera Division,25,Real Betis Balompié,Deportivo Alavés,0,0,DRAW
+438714,2024-02-19 20:00:00+00:00,FINISHED,Primera Division,25,Athletic Club,Girona FC,3,2,HOME_TEAM
+438731,2024-02-23 20:00:00+00:00,FINISHED,Primera Division,26,Real Sociedad de Fútbol,Villarreal CF,1,3,AWAY_TEAM
+438726,2024-02-24 15:15:00+00:00,FINISHED,Primera Division,26,FC Barcelona,Getafe CF,4,0,HOME_TEAM
+438725,2024-02-24 17:30:00+00:00,FINISHED,Primera Division,26,Deportivo Alavés,RCD Mallorca,1,1,DRAW
+438732,2024-02-24 20:00:00+00:00,FINISHED,Primera Division,26,UD Almería,Club Atlético de Madrid,2,2,DRAW
+438727,2024-02-25 13:00:00+00:00,FINISHED,Primera Division,26,Cádiz CF,RC Celta de Vigo,2,2,DRAW
+438724,2024-02-25 15:15:00+00:00,FINISHED,Primera Division,26,Real Betis Balompié,Athletic Club,3,1,HOME_TEAM
+438733,2024-02-25 17:30:00+00:00,FINISHED,Primera Division,26,UD Las Palmas,CA Osasuna,1,1,DRAW
+438730,2024-02-25 20:00:00+00:00,FINISHED,Primera Division,26,Real Madrid CF,Sevilla FC,1,0,HOME_TEAM
+438728,2024-02-26 20:00:00+00:00,FINISHED,Primera Division,26,Girona FC,Rayo Vallecano de Madrid,3,0,HOME_TEAM
+438737,2024-03-01 20:00:00+00:00,FINISHED,Primera Division,27,RC Celta de Vigo,UD Almería,1,0,HOME_TEAM
+438739,2024-03-02 13:00:00+00:00,FINISHED,Primera Division,27,Sevilla FC,Real Sociedad de Fútbol,3,2,HOME_TEAM
+438742,2024-03-02 15:15:00+00:00,FINISHED,Primera Division,27,Rayo Vallecano de Madrid,Cádiz CF,1,1,DRAW
+438738,2024-03-02 17:30:00+00:00,FINISHED,Primera Division,27,Getafe CF,UD Las Palmas,3,3,DRAW
+438740,2024-03-02 20:00:00+00:00,FINISHED,Primera Division,27,Valencia CF,Real Madrid CF,2,2,DRAW
+438741,2024-03-03 13:00:00+00:00,FINISHED,Primera Division,27,Villarreal CF,Granada CF,5,1,HOME_TEAM
+438735,2024-03-03 15:15:00+00:00,FINISHED,Primera Division,27,Club Atlético de Madrid,Real Betis Balompié,2,1,HOME_TEAM
+438743,2024-03-03 17:30:00+00:00,FINISHED,Primera Division,27,RCD Mallorca,Girona FC,1,0,HOME_TEAM
+438734,2024-03-03 20:00:00+00:00,FINISHED,Primera Division,27,Athletic Club,FC Barcelona,0,0,DRAW
+438736,2024-03-04 20:00:00+00:00,FINISHED,Primera Division,27,CA Osasuna,Deportivo Alavés,1,0,HOME_TEAM
+438746,2024-03-08 20:00:00+00:00,FINISHED,Primera Division,28,FC Barcelona,RCD Mallorca,1,0,HOME_TEAM
+438750,2024-03-09 13:00:00+00:00,FINISHED,Primera Division,28,Valencia CF,Getafe CF,1,0,HOME_TEAM
+438747,2024-03-09 15:15:00+00:00,FINISHED,Primera Division,28,Cádiz CF,Club Atlético de Madrid,2,0,HOME_TEAM
+438749,2024-03-09 17:30:00+00:00,FINISHED,Primera Division,28,Granada CF,Real Sociedad de Fútbol,2,3,AWAY_TEAM
+438748,2024-03-09 20:00:00+00:00,FINISHED,Primera Division,28,Girona FC,CA Osasuna,2,0,HOME_TEAM
+438745,2024-03-10 13:00:00+00:00,FINISHED,Primera Division,28,Deportivo Alavés,Rayo Vallecano de Madrid,1,0,HOME_TEAM
+438753,2024-03-10 15:15:00+00:00,FINISHED,Primera Division,28,UD Las Palmas,Athletic Club,0,2,AWAY_TEAM
+438751,2024-03-10 17:30:00+00:00,FINISHED,Primera Division,28,Real Madrid CF,RC Celta de Vigo,4,0,HOME_TEAM
+438744,2024-03-10 20:00:00+00:00,FINISHED,Primera Division,28,Real Betis Balompié,Villarreal CF,2,3,AWAY_TEAM
+438752,2024-03-11 20:00:00+00:00,FINISHED,Primera Division,28,UD Almería,Sevilla FC,2,2,DRAW
+438762,2024-03-15 20:00:00+00:00,FINISHED,Primera Division,29,Real Sociedad de Fútbol,Cádiz CF,2,0,HOME_TEAM
+438761,2024-03-16 13:00:00+00:00,FINISHED,Primera Division,29,RCD Mallorca,Granada CF,1,0,HOME_TEAM
+438756,2024-03-16 15:15:00+00:00,FINISHED,Primera Division,29,CA Osasuna,Real Madrid CF,2,4,AWAY_TEAM
+438757,2024-03-16 17:30:00+00:00,FINISHED,Primera Division,29,Getafe CF,Girona FC,1,0,HOME_TEAM
+438754,2024-03-16 20:00:00+00:00,FINISHED,Primera Division,29,Athletic Club,Deportivo Alavés,2,0,HOME_TEAM
+438758,2024-03-17 13:00:00+00:00,FINISHED,Primera Division,29,Sevilla FC,RC Celta de Vigo,1,2,AWAY_TEAM
+438759,2024-03-17 15:15:00+00:00,FINISHED,Primera Division,29,Villarreal CF,Valencia CF,1,0,HOME_TEAM
+438763,2024-03-17 15:15:00+00:00,FINISHED,Primera Division,29,UD Las Palmas,UD Almería,0,1,AWAY_TEAM
+438760,2024-03-17 17:30:00+00:00,FINISHED,Primera Division,29,Rayo Vallecano de Madrid,Real Betis Balompié,2,0,HOME_TEAM
+438755,2024-03-17 20:00:00+00:00,FINISHED,Primera Division,29,Club Atlético de Madrid,FC Barcelona,0,3,AWAY_TEAM
+438767,2024-03-29 20:00:00+00:00,FINISHED,Primera Division,30,Cádiz CF,Granada CF,1,0,HOME_TEAM
+438768,2024-03-30 13:00:00+00:00,FINISHED,Primera Division,30,Getafe CF,Sevilla FC,0,1,AWAY_TEAM
+438773,2024-03-30 15:15:00+00:00,FINISHED,Primera Division,30,UD Almería,CA Osasuna,0,3,AWAY_TEAM
+438770,2024-03-30 17:30:00+00:00,FINISHED,Primera Division,30,Valencia CF,RCD Mallorca,0,0,DRAW
+438766,2024-03-30 20:00:00+00:00,FINISHED,Primera Division,30,FC Barcelona,UD Las Palmas,1,0,HOME_TEAM
+438764,2024-03-31 12:00:00+00:00,FINISHED,Primera Division,30,RC Celta de Vigo,Rayo Vallecano de Madrid,0,0,DRAW
+438769,2024-03-31 14:15:00+00:00,FINISHED,Primera Division,30,Girona FC,Real Betis Balompié,3,2,HOME_TEAM
+438765,2024-03-31 16:30:00+00:00,FINISHED,Primera Division,30,Deportivo Alavés,Real Sociedad de Fútbol,0,1,AWAY_TEAM
+438772,2024-03-31 19:00:00+00:00,FINISHED,Primera Division,30,Real Madrid CF,Athletic Club,2,0,HOME_TEAM
+438771,2024-04-01 19:00:00+00:00,FINISHED,Primera Division,30,Villarreal CF,Club Atlético de Madrid,1,2,AWAY_TEAM
+438729,2024-04-04 18:00:00+00:00,FINISHED,Primera Division,26,Granada CF,Valencia CF,0,1,AWAY_TEAM
+438776,2024-04-12 19:00:00+00:00,FINISHED,Primera Division,31,Real Betis Balompié,RC Celta de Vigo,2,1,HOME_TEAM
+438775,2024-04-13 12:00:00+00:00,FINISHED,Primera Division,31,Club Atlético de Madrid,Girona FC,3,1,HOME_TEAM
+438780,2024-04-13 14:15:00+00:00,FINISHED,Primera Division,31,Rayo Vallecano de Madrid,Getafe CF,0,0,DRAW
+438781,2024-04-13 16:30:00+00:00,FINISHED,Primera Division,31,RCD Mallorca,Real Madrid CF,0,1,AWAY_TEAM
+438778,2024-04-13 19:00:00+00:00,FINISHED,Primera Division,31,Cádiz CF,FC Barcelona,0,1,AWAY_TEAM
+438783,2024-04-14 12:00:00+00:00,FINISHED,Primera Division,31,UD Las Palmas,Sevilla FC,0,2,AWAY_TEAM
+438779,2024-04-14 14:15:00+00:00,FINISHED,Primera Division,31,Granada CF,Deportivo Alavés,2,0,HOME_TEAM
+438774,2024-04-14 16:30:00+00:00,FINISHED,Primera Division,31,Athletic Club,Villarreal CF,1,1,DRAW
+438782,2024-04-14 19:00:00+00:00,FINISHED,Primera Division,31,Real Sociedad de Fútbol,UD Almería,2,2,DRAW
+438777,2024-04-15 19:00:00+00:00,FINISHED,Primera Division,31,CA Osasuna,Valencia CF,0,1,AWAY_TEAM
+438784,2024-04-19 19:00:00+00:00,FINISHED,Primera Division,32,Athletic Club,Granada CF,1,1,DRAW
+438785,2024-04-20 12:00:00+00:00,FINISHED,Primera Division,32,RC Celta de Vigo,UD Las Palmas,4,1,HOME_TEAM
+438791,2024-04-20 14:15:00+00:00,FINISHED,Primera Division,32,Rayo Vallecano de Madrid,CA Osasuna,2,1,HOME_TEAM
+438790,2024-04-20 16:30:00+00:00,FINISHED,Primera Division,32,Valencia CF,Real Betis Balompié,1,2,AWAY_TEAM
+438788,2024-04-20 19:00:00+00:00,FINISHED,Primera Division,32,Girona FC,Cádiz CF,4,1,HOME_TEAM
+438787,2024-04-21 12:00:00+00:00,FINISHED,Primera Division,32,Getafe CF,Real Sociedad de Fútbol,1,1,DRAW
+438793,2024-04-21 14:15:00+00:00,FINISHED,Primera Division,32,UD Almería,Villarreal CF,1,2,AWAY_TEAM
+438786,2024-04-21 16:30:00+00:00,FINISHED,Primera Division,32,Deportivo Alavés,Club Atlético de Madrid,2,0,HOME_TEAM
+438792,2024-04-21 19:00:00+00:00,FINISHED,Primera Division,32,Real Madrid CF,FC Barcelona,3,2,HOME_TEAM
+438789,2024-04-22 19:00:00+00:00,FINISHED,Primera Division,32,Sevilla FC,RCD Mallorca,2,1,HOME_TEAM
+438801,2024-04-26 19:00:00+00:00,FINISHED,Primera Division,33,Real Sociedad de Fútbol,Real Madrid CF,0,1,AWAY_TEAM
+438803,2024-04-27 12:00:00+00:00,FINISHED,Primera Division,33,UD Las Palmas,Girona FC,0,2,AWAY_TEAM
+438802,2024-04-27 14:15:00+00:00,FINISHED,Primera Division,33,UD Almería,Getafe CF,1,3,AWAY_TEAM
+438796,2024-04-27 16:30:00+00:00,FINISHED,Primera Division,33,Deportivo Alavés,RC Celta de Vigo,3,0,HOME_TEAM
+438794,2024-04-27 19:00:00+00:00,FINISHED,Primera Division,33,Club Atlético de Madrid,Athletic Club,3,1,HOME_TEAM
+438798,2024-04-28 12:00:00+00:00,FINISHED,Primera Division,33,Cádiz CF,RCD Mallorca,1,1,DRAW
+438799,2024-04-28 14:15:00+00:00,FINISHED,Primera Division,33,Granada CF,CA Osasuna,3,0,HOME_TEAM
+438800,2024-04-28 16:30:00+00:00,FINISHED,Primera Division,33,Villarreal CF,Rayo Vallecano de Madrid,3,0,HOME_TEAM
+438795,2024-04-28 19:00:00+00:00,FINISHED,Primera Division,33,Real Betis Balompié,Sevilla FC,1,1,DRAW
+438797,2024-04-29 19:00:00+00:00,FINISHED,Primera Division,33,FC Barcelona,Valencia CF,4,2,HOME_TEAM
+438806,2024-05-03 19:00:00+00:00,FINISHED,Primera Division,34,Getafe CF,Athletic Club,0,2,AWAY_TEAM
+438813,2024-05-04 12:00:00+00:00,FINISHED,Primera Division,34,Real Sociedad de Fútbol,UD Las Palmas,2,0,HOME_TEAM
+438812,2024-05-04 14:15:00+00:00,FINISHED,Primera Division,34,Real Madrid CF,Cádiz CF,3,0,HOME_TEAM
+438807,2024-05-04 16:30:00+00:00,FINISHED,Primera Division,34,Girona FC,FC Barcelona,4,2,HOME_TEAM
+438811,2024-05-04 19:00:00+00:00,FINISHED,Primera Division,34,RCD Mallorca,Club Atlético de Madrid,0,1,AWAY_TEAM
+438804,2024-05-05 12:00:00+00:00,FINISHED,Primera Division,34,CA Osasuna,Real Betis Balompié,0,2,AWAY_TEAM
+438805,2024-05-05 14:15:00+00:00,FINISHED,Primera Division,34,RC Celta de Vigo,Villarreal CF,3,2,HOME_TEAM
+438809,2024-05-05 16:30:00+00:00,FINISHED,Primera Division,34,Valencia CF,Deportivo Alavés,0,1,AWAY_TEAM
+438808,2024-05-05 19:00:00+00:00,FINISHED,Primera Division,34,Sevilla FC,Granada CF,3,0,HOME_TEAM
+438810,2024-05-05 19:00:00+00:00,FINISHED,Primera Division,34,Rayo Vallecano de Madrid,UD Almería,0,1,AWAY_TEAM
+438817,2024-05-10 19:00:00+00:00,FINISHED,Primera Division,35,Deportivo Alavés,Girona FC,2,2,DRAW
+438823,2024-05-11 12:00:00+00:00,FINISHED,Primera Division,35,RCD Mallorca,UD Las Palmas,1,0,HOME_TEAM
+438822,2024-05-11 14:15:00+00:00,FINISHED,Primera Division,35,Villarreal CF,Sevilla FC,3,2,HOME_TEAM
+438820,2024-05-11 16:30:00+00:00,FINISHED,Primera Division,35,Granada CF,Real Madrid CF,0,4,AWAY_TEAM
+438814,2024-05-11 19:00:00+00:00,FINISHED,Primera Division,35,Athletic Club,CA Osasuna,2,2,DRAW
+438819,2024-05-12 12:00:00+00:00,FINISHED,Primera Division,35,Cádiz CF,Getafe CF,1,0,HOME_TEAM
+438815,2024-05-12 14:15:00+00:00,FINISHED,Primera Division,35,Club Atlético de Madrid,RC Celta de Vigo,1,0,HOME_TEAM
+438821,2024-05-12 16:30:00+00:00,FINISHED,Primera Division,35,Valencia CF,Rayo Vallecano de Madrid,0,0,DRAW
+438816,2024-05-12 19:00:00+00:00,FINISHED,Primera Division,35,Real Betis Balompié,UD Almería,3,2,HOME_TEAM
+438818,2024-05-13 19:00:00+00:00,FINISHED,Primera Division,35,FC Barcelona,Real Sociedad de Fútbol,2,0,HOME_TEAM
+438824,2024-05-14 17:30:00+00:00,FINISHED,Primera Division,36,CA Osasuna,RCD Mallorca,1,1,DRAW
+438830,2024-05-14 19:30:00+00:00,FINISHED,Primera Division,36,Real Madrid CF,Deportivo Alavés,5,0,HOME_TEAM
+438827,2024-05-14 20:00:00+00:00,FINISHED,Primera Division,36,Girona FC,Villarreal CF,0,1,AWAY_TEAM
+438828,2024-05-15 17:30:00+00:00,FINISHED,Primera Division,36,Sevilla FC,Cádiz CF,0,1,AWAY_TEAM
+438829,2024-05-15 17:30:00+00:00,FINISHED,Primera Division,36,Rayo Vallecano de Madrid,Granada CF,2,1,HOME_TEAM
+438825,2024-05-15 20:00:00+00:00,FINISHED,Primera Division,36,RC Celta de Vigo,Athletic Club,2,1,HOME_TEAM
+438826,2024-05-15 20:00:00+00:00,FINISHED,Primera Division,36,Getafe CF,Club Atlético de Madrid,0,3,AWAY_TEAM
+438833,2024-05-16 17:30:00+00:00,FINISHED,Primera Division,36,UD Las Palmas,Real Betis Balompié,2,2,DRAW
+438832,2024-05-16 19:30:00+00:00,FINISHED,Primera Division,36,UD Almería,FC Barcelona,0,2,AWAY_TEAM
+438831,2024-05-16 20:00:00+00:00,FINISHED,Primera Division,36,Real Sociedad de Fútbol,Valencia CF,1,0,HOME_TEAM
+438837,2024-05-18 19:00:00+00:00,FINISHED,Primera Division,37,Deportivo Alavés,Getafe CF,1,0,HOME_TEAM
+438834,2024-05-19 17:00:00+00:00,FINISHED,Primera Division,37,Athletic Club,Sevilla FC,2,0,HOME_TEAM
+438835,2024-05-19 17:00:00+00:00,FINISHED,Primera Division,37,Club Atlético de Madrid,CA Osasuna,1,4,AWAY_TEAM
+438836,2024-05-19 17:00:00+00:00,FINISHED,Primera Division,37,Real Betis Balompié,Real Sociedad de Fútbol,0,2,AWAY_TEAM
+438838,2024-05-19 17:00:00+00:00,FINISHED,Primera Division,37,FC Barcelona,Rayo Vallecano de Madrid,3,0,HOME_TEAM
+438839,2024-05-19 17:00:00+00:00,FINISHED,Primera Division,37,Cádiz CF,UD Las Palmas,0,0,DRAW
+438840,2024-05-19 17:00:00+00:00,FINISHED,Primera Division,37,Granada CF,RC Celta de Vigo,1,2,AWAY_TEAM
+438841,2024-05-19 17:00:00+00:00,FINISHED,Primera Division,37,Valencia CF,Girona FC,1,3,AWAY_TEAM
+438842,2024-05-19 17:00:00+00:00,FINISHED,Primera Division,37,Villarreal CF,Real Madrid CF,4,4,DRAW
+438843,2024-05-19 17:00:00+00:00,FINISHED,Primera Division,37,RCD Mallorca,UD Almería,2,2,DRAW
+438847,2024-05-24 19:00:00+00:00,FINISHED,Primera Division,38,Girona FC,Granada CF,7,0,HOME_TEAM
+438844,2024-05-25 12:00:00+00:00,FINISHED,Primera Division,38,CA Osasuna,Villarreal CF,1,1,DRAW
+438851,2024-05-25 14:15:00+00:00,FINISHED,Primera Division,38,Real Sociedad de Fútbol,Club Atlético de Madrid,0,2,AWAY_TEAM
+438849,2024-05-25 16:30:00+00:00,FINISHED,Primera Division,38,Rayo Vallecano de Madrid,Athletic Club,0,1,AWAY_TEAM
+438852,2024-05-25 16:30:00+00:00,FINISHED,Primera Division,38,UD Almería,Cádiz CF,6,1,HOME_TEAM
+438850,2024-05-25 19:00:00+00:00,FINISHED,Primera Division,38,Real Madrid CF,Real Betis Balompié,0,0,DRAW
+438846,2024-05-26 12:00:00+00:00,FINISHED,Primera Division,38,Getafe CF,RCD Mallorca,1,2,AWAY_TEAM
+438845,2024-05-26 14:15:00+00:00,FINISHED,Primera Division,38,RC Celta de Vigo,Valencia CF,2,2,DRAW
+438853,2024-05-26 14:15:00+00:00,FINISHED,Primera Division,38,UD Las Palmas,Deportivo Alavés,1,1,DRAW
+438848,2024-05-26 19:00:00+00:00,FINISHED,Primera Division,38,Sevilla FC,FC Barcelona,1,2,AWAY_TEAM
+441789,2023-08-18 18:30:00+00:00,FINISHED,Bundesliga,1,SV Werder Bremen,FC Bayern München,0,4,AWAY_TEAM
+441792,2023-08-19 13:30:00+00:00,FINISHED,Bundesliga,1,Bayer 04 Leverkusen,RB Leipzig,3,2,HOME_TEAM
+441794,2023-08-19 13:30:00+00:00,FINISHED,Bundesliga,1,VfL Wolfsburg,1. FC Heidenheim 1846,2,0,HOME_TEAM
+441795,2023-08-19 13:30:00+00:00,FINISHED,Bundesliga,1,TSG 1899 Hoffenheim,SC Freiburg,1,2,AWAY_TEAM
+441796,2023-08-19 13:30:00+00:00,FINISHED,Bundesliga,1,FC Augsburg,Borussia Mönchengladbach,4,4,DRAW
+441797,2023-08-19 13:30:00+00:00,FINISHED,Bundesliga,1,VfB Stuttgart,VfL Bochum 1848,5,0,HOME_TEAM
+441790,2023-08-19 16:30:00+00:00,FINISHED,Bundesliga,1,Borussia Dortmund,1. FC Köln,1,0,HOME_TEAM
+441791,2023-08-20 13:30:00+00:00,FINISHED,Bundesliga,1,1. FC Union Berlin,1. FSV Mainz 05,4,1,HOME_TEAM
+441793,2023-08-20 15:30:00+00:00,FINISHED,Bundesliga,1,Eintracht Frankfurt,SV Darmstadt 98,1,0,HOME_TEAM
+441799,2023-08-25 18:30:00+00:00,FINISHED,Bundesliga,2,RB Leipzig,VfB Stuttgart,5,1,HOME_TEAM
+441800,2023-08-26 13:30:00+00:00,FINISHED,Bundesliga,2,SC Freiburg,SV Werder Bremen,1,0,HOME_TEAM
+441803,2023-08-26 13:30:00+00:00,FINISHED,Bundesliga,2,1. FC Köln,VfL Wolfsburg,1,2,AWAY_TEAM
+441804,2023-08-26 13:30:00+00:00,FINISHED,Bundesliga,2,VfL Bochum 1848,Borussia Dortmund,1,1,DRAW
+441805,2023-08-26 13:30:00+00:00,FINISHED,Bundesliga,2,1. FC Heidenheim 1846,TSG 1899 Hoffenheim,2,3,AWAY_TEAM
+441806,2023-08-26 13:30:00+00:00,FINISHED,Bundesliga,2,SV Darmstadt 98,1. FC Union Berlin,1,4,AWAY_TEAM
+441802,2023-08-26 16:30:00+00:00,FINISHED,Bundesliga,2,Borussia Mönchengladbach,Bayer 04 Leverkusen,0,3,AWAY_TEAM
+441801,2023-08-27 13:30:00+00:00,FINISHED,Bundesliga,2,1. FSV Mainz 05,Eintracht Frankfurt,1,1,DRAW
+441798,2023-08-27 15:30:00+00:00,FINISHED,Bundesliga,2,FC Bayern München,FC Augsburg,3,1,HOME_TEAM
+441807,2023-09-01 18:30:00+00:00,FINISHED,Bundesliga,3,Borussia Dortmund,1. FC Heidenheim 1846,2,2,DRAW
+441809,2023-09-02 13:30:00+00:00,FINISHED,Bundesliga,3,Bayer 04 Leverkusen,SV Darmstadt 98,5,1,HOME_TEAM
+441812,2023-09-02 13:30:00+00:00,FINISHED,Bundesliga,3,TSG 1899 Hoffenheim,VfL Wolfsburg,3,1,HOME_TEAM
+441813,2023-09-02 13:30:00+00:00,FINISHED,Bundesliga,3,SV Werder Bremen,1. FSV Mainz 05,4,0,HOME_TEAM
+441814,2023-09-02 13:30:00+00:00,FINISHED,Bundesliga,3,FC Augsburg,VfL Bochum 1848,2,2,DRAW
+441815,2023-09-02 13:30:00+00:00,FINISHED,Bundesliga,3,VfB Stuttgart,SC Freiburg,5,0,HOME_TEAM
+441811,2023-09-02 16:30:00+00:00,FINISHED,Bundesliga,3,Borussia Mönchengladbach,FC Bayern München,1,2,AWAY_TEAM
+441810,2023-09-03 13:30:00+00:00,FINISHED,Bundesliga,3,Eintracht Frankfurt,1. FC Köln,1,1,DRAW
+441808,2023-09-03 15:30:00+00:00,FINISHED,Bundesliga,3,1. FC Union Berlin,RB Leipzig,0,3,AWAY_TEAM
+441816,2023-09-15 18:30:00+00:00,FINISHED,Bundesliga,4,FC Bayern München,Bayer 04 Leverkusen,2,2,DRAW
+441817,2023-09-16 13:30:00+00:00,FINISHED,Bundesliga,4,RB Leipzig,FC Augsburg,3,0,HOME_TEAM
+441818,2023-09-16 13:30:00+00:00,FINISHED,Bundesliga,4,SC Freiburg,Borussia Dortmund,2,4,AWAY_TEAM
+441819,2023-09-16 13:30:00+00:00,FINISHED,Bundesliga,4,VfL Wolfsburg,1. FC Union Berlin,2,1,HOME_TEAM
+441820,2023-09-16 13:30:00+00:00,FINISHED,Bundesliga,4,1. FSV Mainz 05,VfB Stuttgart,1,3,AWAY_TEAM
+441821,2023-09-16 13:30:00+00:00,FINISHED,Bundesliga,4,1. FC Köln,TSG 1899 Hoffenheim,1,3,AWAY_TEAM
+441822,2023-09-16 16:30:00+00:00,FINISHED,Bundesliga,4,VfL Bochum 1848,Eintracht Frankfurt,1,1,DRAW
+441823,2023-09-17 13:30:00+00:00,FINISHED,Bundesliga,4,1. FC Heidenheim 1846,SV Werder Bremen,4,2,HOME_TEAM
+441824,2023-09-17 15:30:00+00:00,FINISHED,Bundesliga,4,SV Darmstadt 98,Borussia Mönchengladbach,3,3,DRAW
+441833,2023-09-22 18:30:00+00:00,FINISHED,Bundesliga,5,VfB Stuttgart,SV Darmstadt 98,3,1,HOME_TEAM
+441825,2023-09-23 13:30:00+00:00,FINISHED,Bundesliga,5,FC Bayern München,VfL Bochum 1848,7,0,HOME_TEAM
+441826,2023-09-23 13:30:00+00:00,FINISHED,Bundesliga,5,Borussia Dortmund,VfL Wolfsburg,1,0,HOME_TEAM
+441827,2023-09-23 13:30:00+00:00,FINISHED,Bundesliga,5,1. FC Union Berlin,TSG 1899 Hoffenheim,0,2,AWAY_TEAM
+441830,2023-09-23 13:30:00+00:00,FINISHED,Bundesliga,5,Borussia Mönchengladbach,RB Leipzig,0,1,AWAY_TEAM
+441832,2023-09-23 13:30:00+00:00,FINISHED,Bundesliga,5,FC Augsburg,1. FSV Mainz 05,2,1,HOME_TEAM
+441831,2023-09-23 16:30:00+00:00,FINISHED,Bundesliga,5,SV Werder Bremen,1. FC Köln,2,1,HOME_TEAM
+441828,2023-09-24 13:30:00+00:00,FINISHED,Bundesliga,5,Bayer 04 Leverkusen,1. FC Heidenheim 1846,4,1,HOME_TEAM
+441829,2023-09-24 15:30:00+00:00,FINISHED,Bundesliga,5,Eintracht Frankfurt,SC Freiburg,0,0,DRAW
+441839,2023-09-29 18:30:00+00:00,FINISHED,Bundesliga,6,TSG 1899 Hoffenheim,Borussia Dortmund,1,3,AWAY_TEAM
+441836,2023-09-30 13:30:00+00:00,FINISHED,Bundesliga,6,VfL Wolfsburg,Eintracht Frankfurt,2,0,HOME_TEAM
+441837,2023-09-30 13:30:00+00:00,FINISHED,Bundesliga,6,1. FSV Mainz 05,Bayer 04 Leverkusen,0,3,AWAY_TEAM
+441838,2023-09-30 13:30:00+00:00,FINISHED,Bundesliga,6,1. FC Köln,VfB Stuttgart,0,2,AWAY_TEAM
+441840,2023-09-30 13:30:00+00:00,FINISHED,Bundesliga,6,VfL Bochum 1848,Borussia Mönchengladbach,1,3,AWAY_TEAM
+441841,2023-09-30 13:30:00+00:00,FINISHED,Bundesliga,6,1. FC Heidenheim 1846,1. FC Union Berlin,1,0,HOME_TEAM
+441834,2023-09-30 16:30:00+00:00,FINISHED,Bundesliga,6,RB Leipzig,FC Bayern München,2,2,DRAW
+441842,2023-10-01 13:30:00+00:00,FINISHED,Bundesliga,6,SV Darmstadt 98,SV Werder Bremen,4,2,HOME_TEAM
+441835,2023-10-01 15:30:00+00:00,FINISHED,Bundesliga,6,SC Freiburg,FC Augsburg,2,0,HOME_TEAM
+441848,2023-10-06 18:30:00+00:00,FINISHED,Bundesliga,7,Borussia Mönchengladbach,1. FSV Mainz 05,2,2,DRAW
+441844,2023-10-07 13:30:00+00:00,FINISHED,Bundesliga,7,Borussia Dortmund,1. FC Union Berlin,4,2,HOME_TEAM
+441845,2023-10-07 13:30:00+00:00,FINISHED,Bundesliga,7,RB Leipzig,VfL Bochum 1848,0,0,DRAW
+441850,2023-10-07 13:30:00+00:00,FINISHED,Bundesliga,7,FC Augsburg,SV Darmstadt 98,1,2,AWAY_TEAM
+441851,2023-10-07 13:30:00+00:00,FINISHED,Bundesliga,7,VfB Stuttgart,VfL Wolfsburg,3,1,HOME_TEAM
+441849,2023-10-07 16:30:00+00:00,FINISHED,Bundesliga,7,SV Werder Bremen,TSG 1899 Hoffenheim,2,3,AWAY_TEAM
+441846,2023-10-08 13:30:00+00:00,FINISHED,Bundesliga,7,Bayer 04 Leverkusen,1. FC Köln,3,0,HOME_TEAM
+441843,2023-10-08 15:30:00+00:00,FINISHED,Bundesliga,7,FC Bayern München,SC Freiburg,3,0,HOME_TEAM
+441847,2023-10-08 17:30:00+00:00,FINISHED,Bundesliga,7,Eintracht Frankfurt,1. FC Heidenheim 1846,2,0,HOME_TEAM
+441852,2023-10-20 18:30:00+00:00,FINISHED,Bundesliga,8,Borussia Dortmund,SV Werder Bremen,1,0,HOME_TEAM
+441858,2023-10-21 13:30:00+00:00,FINISHED,Bundesliga,8,TSG 1899 Hoffenheim,Eintracht Frankfurt,1,3,AWAY_TEAM
+441860,2023-10-21 13:30:00+00:00,FINISHED,Bundesliga,8,SV Darmstadt 98,RB Leipzig,1,3,AWAY_TEAM
+441853,2023-10-21 13:30:00+00:00,FINISHED,Bundesliga,8,1. FC Union Berlin,VfB Stuttgart,0,3,AWAY_TEAM
+441854,2023-10-21 13:30:00+00:00,FINISHED,Bundesliga,8,SC Freiburg,VfL Bochum 1848,2,1,HOME_TEAM
+441855,2023-10-21 13:30:00+00:00,FINISHED,Bundesliga,8,VfL Wolfsburg,Bayer 04 Leverkusen,1,2,AWAY_TEAM
+441856,2023-10-21 16:30:00+00:00,FINISHED,Bundesliga,8,1. FSV Mainz 05,FC Bayern München,1,3,AWAY_TEAM
+441857,2023-10-22 13:30:00+00:00,FINISHED,Bundesliga,8,1. FC Köln,Borussia Mönchengladbach,3,1,HOME_TEAM
+441859,2023-10-22 15:30:00+00:00,FINISHED,Bundesliga,8,1. FC Heidenheim 1846,FC Augsburg,2,5,AWAY_TEAM
+441867,2023-10-27 18:30:00+00:00,FINISHED,Bundesliga,9,VfL Bochum 1848,1. FSV Mainz 05,2,2,DRAW
+441861,2023-10-28 13:30:00+00:00,FINISHED,Bundesliga,9,FC Bayern München,SV Darmstadt 98,8,0,HOME_TEAM
+441865,2023-10-28 13:30:00+00:00,FINISHED,Bundesliga,9,Borussia Mönchengladbach,1. FC Heidenheim 1846,2,1,HOME_TEAM
+441866,2023-10-28 13:30:00+00:00,FINISHED,Bundesliga,9,SV Werder Bremen,1. FC Union Berlin,2,0,HOME_TEAM
+441868,2023-10-28 13:30:00+00:00,FINISHED,Bundesliga,9,FC Augsburg,VfL Wolfsburg,3,2,HOME_TEAM
+441869,2023-10-28 13:30:00+00:00,FINISHED,Bundesliga,9,VfB Stuttgart,TSG 1899 Hoffenheim,2,3,AWAY_TEAM
+441862,2023-10-28 16:30:00+00:00,FINISHED,Bundesliga,9,RB Leipzig,1. FC Köln,6,0,HOME_TEAM
+441864,2023-10-29 14:30:00+00:00,FINISHED,Bundesliga,9,Eintracht Frankfurt,Borussia Dortmund,3,3,DRAW
+441863,2023-10-29 16:30:00+00:00,FINISHED,Bundesliga,9,Bayer 04 Leverkusen,SC Freiburg,2,1,HOME_TEAM
+441878,2023-11-03 19:30:00+00:00,FINISHED,Bundesliga,10,SV Darmstadt 98,VfL Bochum 1848,1,2,AWAY_TEAM
+441871,2023-11-04 14:30:00+00:00,FINISHED,Bundesliga,10,1. FC Union Berlin,Eintracht Frankfurt,0,3,AWAY_TEAM
+441872,2023-11-04 14:30:00+00:00,FINISHED,Bundesliga,10,SC Freiburg,Borussia Mönchengladbach,3,3,DRAW
+441874,2023-11-04 14:30:00+00:00,FINISHED,Bundesliga,10,1. FSV Mainz 05,RB Leipzig,2,0,HOME_TEAM
+441875,2023-11-04 14:30:00+00:00,FINISHED,Bundesliga,10,1. FC Köln,FC Augsburg,1,1,DRAW
+441876,2023-11-04 14:30:00+00:00,FINISHED,Bundesliga,10,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,2,3,AWAY_TEAM
+441870,2023-11-04 17:30:00+00:00,FINISHED,Bundesliga,10,Borussia Dortmund,FC Bayern München,0,4,AWAY_TEAM
+441873,2023-11-05 14:30:00+00:00,FINISHED,Bundesliga,10,VfL Wolfsburg,SV Werder Bremen,2,2,DRAW
+441877,2023-11-05 16:30:00+00:00,FINISHED,Bundesliga,10,1. FC Heidenheim 1846,VfB Stuttgart,2,0,HOME_TEAM
+441882,2023-11-10 19:30:00+00:00,FINISHED,Bundesliga,11,Borussia Mönchengladbach,VfL Wolfsburg,4,0,HOME_TEAM
+441879,2023-11-11 14:30:00+00:00,FINISHED,Bundesliga,11,FC Bayern München,1. FC Heidenheim 1846,4,2,HOME_TEAM
+441885,2023-11-11 14:30:00+00:00,FINISHED,Bundesliga,11,FC Augsburg,TSG 1899 Hoffenheim,1,1,DRAW
+441886,2023-11-11 14:30:00+00:00,FINISHED,Bundesliga,11,VfB Stuttgart,Borussia Dortmund,2,1,HOME_TEAM
+441887,2023-11-11 14:30:00+00:00,FINISHED,Bundesliga,11,SV Darmstadt 98,1. FSV Mainz 05,0,0,DRAW
+441884,2023-11-11 17:30:00+00:00,FINISHED,Bundesliga,11,VfL Bochum 1848,1. FC Köln,1,1,DRAW
+441881,2023-11-12 14:30:00+00:00,FINISHED,Bundesliga,11,Bayer 04 Leverkusen,1. FC Union Berlin,4,0,HOME_TEAM
+441883,2023-11-12 16:30:00+00:00,FINISHED,Bundesliga,11,SV Werder Bremen,Eintracht Frankfurt,2,2,DRAW
+441880,2023-11-12 18:30:00+00:00,FINISHED,Bundesliga,11,RB Leipzig,SC Freiburg,3,1,HOME_TEAM
+441893,2023-11-24 19:30:00+00:00,FINISHED,Bundesliga,12,1. FC Köln,FC Bayern München,0,1,AWAY_TEAM
+441888,2023-11-25 14:30:00+00:00,FINISHED,Bundesliga,12,Borussia Dortmund,Borussia Mönchengladbach,4,2,HOME_TEAM
+441889,2023-11-25 14:30:00+00:00,FINISHED,Bundesliga,12,1. FC Union Berlin,FC Augsburg,1,1,DRAW
+441890,2023-11-25 14:30:00+00:00,FINISHED,Bundesliga,12,SC Freiburg,SV Darmstadt 98,1,1,DRAW
+441892,2023-11-25 14:30:00+00:00,FINISHED,Bundesliga,12,VfL Wolfsburg,RB Leipzig,2,1,HOME_TEAM
+441895,2023-11-25 14:30:00+00:00,FINISHED,Bundesliga,12,SV Werder Bremen,Bayer 04 Leverkusen,0,3,AWAY_TEAM
+441891,2023-11-25 17:30:00+00:00,FINISHED,Bundesliga,12,Eintracht Frankfurt,VfB Stuttgart,1,2,AWAY_TEAM
+441896,2023-11-26 14:30:00+00:00,FINISHED,Bundesliga,12,1. FC Heidenheim 1846,VfL Bochum 1848,0,0,DRAW
+441894,2023-11-26 16:30:00+00:00,FINISHED,Bundesliga,12,TSG 1899 Hoffenheim,1. FSV Mainz 05,1,1,DRAW
+441905,2023-12-01 19:30:00+00:00,FINISHED,Bundesliga,13,SV Darmstadt 98,1. FC Köln,0,1,AWAY_TEAM
+441898,2023-12-02 14:30:00+00:00,FINISHED,Bundesliga,13,RB Leipzig,1. FC Heidenheim 1846,2,1,HOME_TEAM
+441901,2023-12-02 14:30:00+00:00,FINISHED,Bundesliga,13,Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,1,HOME_TEAM
+441902,2023-12-02 14:30:00+00:00,FINISHED,Bundesliga,13,VfL Bochum 1848,VfL Wolfsburg,3,1,HOME_TEAM
+441904,2023-12-02 17:30:00+00:00,FINISHED,Bundesliga,13,VfB Stuttgart,SV Werder Bremen,2,0,HOME_TEAM
+441900,2023-12-03 14:30:00+00:00,FINISHED,Bundesliga,13,1. FSV Mainz 05,SC Freiburg,0,1,AWAY_TEAM
+441899,2023-12-03 16:30:00+00:00,FINISHED,Bundesliga,13,Bayer 04 Leverkusen,Borussia Dortmund,1,1,DRAW
+441903,2023-12-03 18:30:00+00:00,FINISHED,Bundesliga,13,FC Augsburg,Eintracht Frankfurt,2,1,HOME_TEAM
+441911,2023-12-08 19:30:00+00:00,FINISHED,Bundesliga,14,TSG 1899 Hoffenheim,VfL Bochum 1848,3,1,HOME_TEAM
+441907,2023-12-09 14:30:00+00:00,FINISHED,Bundesliga,14,1. FC Union Berlin,Borussia Mönchengladbach,3,1,HOME_TEAM
+441908,2023-12-09 14:30:00+00:00,FINISHED,Bundesliga,14,Eintracht Frankfurt,FC Bayern München,5,1,HOME_TEAM
+441909,2023-12-09 14:30:00+00:00,FINISHED,Bundesliga,14,VfL Wolfsburg,SC Freiburg,0,1,AWAY_TEAM
+441912,2023-12-09 14:30:00+00:00,FINISHED,Bundesliga,14,SV Werder Bremen,FC Augsburg,2,0,HOME_TEAM
+441914,2023-12-09 14:30:00+00:00,FINISHED,Bundesliga,14,1. FC Heidenheim 1846,SV Darmstadt 98,3,2,HOME_TEAM
+441906,2023-12-09 17:30:00+00:00,FINISHED,Bundesliga,14,Borussia Dortmund,RB Leipzig,2,3,AWAY_TEAM
+441913,2023-12-10 14:30:00+00:00,FINISHED,Bundesliga,14,VfB Stuttgart,Bayer 04 Leverkusen,1,1,DRAW
+441910,2023-12-10 16:30:00+00:00,FINISHED,Bundesliga,14,1. FC Köln,1. FSV Mainz 05,0,0,DRAW
+441920,2023-12-15 19:30:00+00:00,FINISHED,Bundesliga,15,Borussia Mönchengladbach,SV Werder Bremen,2,2,DRAW
+441919,2023-12-16 14:30:00+00:00,FINISHED,Bundesliga,15,1. FSV Mainz 05,1. FC Heidenheim 1846,0,1,AWAY_TEAM
+441921,2023-12-16 14:30:00+00:00,FINISHED,Bundesliga,15,VfL Bochum 1848,1. FC Union Berlin,3,0,HOME_TEAM
+441922,2023-12-16 14:30:00+00:00,FINISHED,Bundesliga,15,FC Augsburg,Borussia Dortmund,1,1,DRAW
+441923,2023-12-16 14:30:00+00:00,FINISHED,Bundesliga,15,SV Darmstadt 98,VfL Wolfsburg,0,1,AWAY_TEAM
+441916,2023-12-16 17:30:00+00:00,FINISHED,Bundesliga,15,RB Leipzig,TSG 1899 Hoffenheim,3,1,HOME_TEAM
+441917,2023-12-17 14:30:00+00:00,FINISHED,Bundesliga,15,SC Freiburg,1. FC Köln,2,0,HOME_TEAM
+441918,2023-12-17 16:30:00+00:00,FINISHED,Bundesliga,15,Bayer 04 Leverkusen,Eintracht Frankfurt,3,0,HOME_TEAM
+441915,2023-12-17 18:30:00+00:00,FINISHED,Bundesliga,15,FC Bayern München,VfB Stuttgart,3,0,HOME_TEAM
+441930,2023-12-19 17:30:00+00:00,FINISHED,Bundesliga,16,SV Werder Bremen,RB Leipzig,1,1,DRAW
+441924,2023-12-19 19:30:00+00:00,FINISHED,Bundesliga,16,Borussia Dortmund,1. FSV Mainz 05,1,1,DRAW
+441929,2023-12-19 19:30:00+00:00,FINISHED,Bundesliga,16,TSG 1899 Hoffenheim,SV Darmstadt 98,3,3,DRAW
+441925,2023-12-20 17:30:00+00:00,FINISHED,Bundesliga,16,1. FC Union Berlin,1. FC Köln,2,0,HOME_TEAM
+441926,2023-12-20 19:30:00+00:00,FINISHED,Bundesliga,16,Bayer 04 Leverkusen,VfL Bochum 1848,4,0,HOME_TEAM
+441927,2023-12-20 19:30:00+00:00,FINISHED,Bundesliga,16,Eintracht Frankfurt,Borussia Mönchengladbach,2,1,HOME_TEAM
+441928,2023-12-20 19:30:00+00:00,FINISHED,Bundesliga,16,VfL Wolfsburg,FC Bayern München,1,2,AWAY_TEAM
+441931,2023-12-20 19:30:00+00:00,FINISHED,Bundesliga,16,VfB Stuttgart,FC Augsburg,3,0,HOME_TEAM
+441932,2023-12-20 19:30:00+00:00,FINISHED,Bundesliga,16,1. FC Heidenheim 1846,SC Freiburg,3,2,HOME_TEAM
+441933,2024-01-12 19:30:00+00:00,FINISHED,Bundesliga,17,FC Bayern München,TSG 1899 Hoffenheim,3,0,HOME_TEAM
+441934,2024-01-13 14:30:00+00:00,FINISHED,Bundesliga,17,RB Leipzig,Eintracht Frankfurt,0,1,AWAY_TEAM
+441935,2024-01-13 14:30:00+00:00,FINISHED,Bundesliga,17,SC Freiburg,1. FC Union Berlin,0,0,DRAW
+441936,2024-01-13 14:30:00+00:00,FINISHED,Bundesliga,17,1. FSV Mainz 05,VfL Wolfsburg,1,1,DRAW
+441938,2024-01-13 14:30:00+00:00,FINISHED,Bundesliga,17,1. FC Köln,1. FC Heidenheim 1846,1,1,DRAW
+441940,2024-01-13 14:30:00+00:00,FINISHED,Bundesliga,17,FC Augsburg,Bayer 04 Leverkusen,0,1,AWAY_TEAM
+441941,2024-01-13 17:30:00+00:00,FINISHED,Bundesliga,17,SV Darmstadt 98,Borussia Dortmund,0,3,AWAY_TEAM
+441939,2024-01-14 14:30:00+00:00,FINISHED,Bundesliga,17,VfL Bochum 1848,SV Werder Bremen,1,1,DRAW
+441937,2024-01-14 16:30:00+00:00,FINISHED,Bundesliga,17,Borussia Mönchengladbach,VfB Stuttgart,3,1,HOME_TEAM
+441943,2024-01-20 14:30:00+00:00,FINISHED,Bundesliga,18,1. FC Köln,Borussia Dortmund,0,4,AWAY_TEAM
+441946,2024-01-20 14:30:00+00:00,FINISHED,Bundesliga,18,SV Darmstadt 98,Eintracht Frankfurt,2,2,DRAW
+441947,2024-01-20 14:30:00+00:00,FINISHED,Bundesliga,18,1. FC Heidenheim 1846,VfL Wolfsburg,1,1,DRAW
+441948,2024-01-20 14:30:00+00:00,FINISHED,Bundesliga,18,SC Freiburg,TSG 1899 Hoffenheim,3,2,HOME_TEAM
+441950,2024-01-20 14:30:00+00:00,FINISHED,Bundesliga,18,VfL Bochum 1848,VfB Stuttgart,1,0,HOME_TEAM
+441945,2024-01-20 17:30:00+00:00,FINISHED,Bundesliga,18,RB Leipzig,Bayer 04 Leverkusen,2,3,AWAY_TEAM
+441942,2024-01-21 14:30:00+00:00,FINISHED,Bundesliga,18,FC Bayern München,SV Werder Bremen,0,1,AWAY_TEAM
+441949,2024-01-21 16:30:00+00:00,FINISHED,Bundesliga,18,Borussia Mönchengladbach,FC Augsburg,1,2,AWAY_TEAM
+441897,2024-01-24 19:30:00+00:00,FINISHED,Bundesliga,13,FC Bayern München,1. FC Union Berlin,1,0,HOME_TEAM
+441954,2024-01-26 19:30:00+00:00,FINISHED,Bundesliga,19,Eintracht Frankfurt,1. FSV Mainz 05,1,0,HOME_TEAM
+441951,2024-01-27 14:30:00+00:00,FINISHED,Bundesliga,19,FC Augsburg,FC Bayern München,2,3,AWAY_TEAM
+441952,2024-01-27 14:30:00+00:00,FINISHED,Bundesliga,19,VfB Stuttgart,RB Leipzig,5,2,HOME_TEAM
+441953,2024-01-27 14:30:00+00:00,FINISHED,Bundesliga,19,SV Werder Bremen,SC Freiburg,3,1,HOME_TEAM
+441956,2024-01-27 14:30:00+00:00,FINISHED,Bundesliga,19,VfL Wolfsburg,1. FC Köln,1,1,DRAW
+441958,2024-01-27 14:30:00+00:00,FINISHED,Bundesliga,19,TSG 1899 Hoffenheim,1. FC Heidenheim 1846,1,1,DRAW
+441955,2024-01-27 17:30:00+00:00,FINISHED,Bundesliga,19,Bayer 04 Leverkusen,Borussia Mönchengladbach,0,0,DRAW
+441959,2024-01-28 14:30:00+00:00,FINISHED,Bundesliga,19,1. FC Union Berlin,SV Darmstadt 98,1,0,HOME_TEAM
+441957,2024-01-28 16:30:00+00:00,FINISHED,Bundesliga,19,Borussia Dortmund,VfL Bochum 1848,3,1,HOME_TEAM
+441960,2024-02-02 19:30:00+00:00,FINISHED,Bundesliga,20,1. FC Heidenheim 1846,Borussia Dortmund,0,0,DRAW
+441962,2024-02-03 14:30:00+00:00,FINISHED,Bundesliga,20,SV Darmstadt 98,Bayer 04 Leverkusen,0,2,AWAY_TEAM
+441964,2024-02-03 14:30:00+00:00,FINISHED,Bundesliga,20,FC Bayern München,Borussia Mönchengladbach,3,1,HOME_TEAM
+441966,2024-02-03 14:30:00+00:00,FINISHED,Bundesliga,20,1. FSV Mainz 05,SV Werder Bremen,0,1,AWAY_TEAM
+441967,2024-02-03 14:30:00+00:00,FINISHED,Bundesliga,20,VfL Bochum 1848,FC Augsburg,1,1,DRAW
+441968,2024-02-03 14:30:00+00:00,FINISHED,Bundesliga,20,SC Freiburg,VfB Stuttgart,1,3,AWAY_TEAM
+441963,2024-02-03 17:30:00+00:00,FINISHED,Bundesliga,20,1. FC Köln,Eintracht Frankfurt,2,0,HOME_TEAM
+441965,2024-02-04 14:30:00+00:00,FINISHED,Bundesliga,20,VfL Wolfsburg,TSG 1899 Hoffenheim,2,2,DRAW
+441961,2024-02-04 16:30:00+00:00,FINISHED,Bundesliga,20,RB Leipzig,1. FC Union Berlin,2,0,HOME_TEAM
+441944,2024-02-07 17:30:00+00:00,FINISHED,Bundesliga,18,1. FSV Mainz 05,1. FC Union Berlin,1,1,DRAW
+441971,2024-02-09 19:30:00+00:00,FINISHED,Bundesliga,21,Borussia Dortmund,SC Freiburg,3,0,HOME_TEAM
+441970,2024-02-10 14:30:00+00:00,FINISHED,Bundesliga,21,FC Augsburg,RB Leipzig,2,2,DRAW
+441972,2024-02-10 14:30:00+00:00,FINISHED,Bundesliga,21,1. FC Union Berlin,VfL Wolfsburg,1,0,HOME_TEAM
+441975,2024-02-10 14:30:00+00:00,FINISHED,Bundesliga,21,Eintracht Frankfurt,VfL Bochum 1848,1,1,DRAW
+441976,2024-02-10 14:30:00+00:00,FINISHED,Bundesliga,21,SV Werder Bremen,1. FC Heidenheim 1846,1,2,AWAY_TEAM
+441977,2024-02-10 14:30:00+00:00,FINISHED,Bundesliga,21,Borussia Mönchengladbach,SV Darmstadt 98,0,0,DRAW
+441969,2024-02-10 17:30:00+00:00,FINISHED,Bundesliga,21,Bayer 04 Leverkusen,FC Bayern München,3,0,HOME_TEAM
+441973,2024-02-11 14:30:00+00:00,FINISHED,Bundesliga,21,VfB Stuttgart,1. FSV Mainz 05,3,1,HOME_TEAM
+441974,2024-02-11 16:30:00+00:00,FINISHED,Bundesliga,21,TSG 1899 Hoffenheim,1. FC Köln,1,1,DRAW
+441984,2024-02-16 19:30:00+00:00,FINISHED,Bundesliga,22,1. FC Köln,SV Werder Bremen,0,1,AWAY_TEAM
+441979,2024-02-17 14:30:00+00:00,FINISHED,Bundesliga,22,VfL Wolfsburg,Borussia Dortmund,1,1,DRAW
+441980,2024-02-17 14:30:00+00:00,FINISHED,Bundesliga,22,TSG 1899 Hoffenheim,1. FC Union Berlin,0,1,AWAY_TEAM
+441981,2024-02-17 14:30:00+00:00,FINISHED,Bundesliga,22,1. FC Heidenheim 1846,Bayer 04 Leverkusen,1,2,AWAY_TEAM
+441985,2024-02-17 14:30:00+00:00,FINISHED,Bundesliga,22,1. FSV Mainz 05,FC Augsburg,1,0,HOME_TEAM
+441986,2024-02-17 14:30:00+00:00,FINISHED,Bundesliga,22,SV Darmstadt 98,VfB Stuttgart,1,2,AWAY_TEAM
+441983,2024-02-17 17:30:00+00:00,FINISHED,Bundesliga,22,RB Leipzig,Borussia Mönchengladbach,2,0,HOME_TEAM
+441982,2024-02-18 14:30:00+00:00,FINISHED,Bundesliga,22,SC Freiburg,Eintracht Frankfurt,3,3,DRAW
+441978,2024-02-18 16:30:00+00:00,FINISHED,Bundesliga,22,VfL Bochum 1848,FC Bayern München,3,2,HOME_TEAM
+441990,2024-02-23 19:30:00+00:00,FINISHED,Bundesliga,23,Bayer 04 Leverkusen,1. FSV Mainz 05,2,1,HOME_TEAM
+441991,2024-02-24 14:30:00+00:00,FINISHED,Bundesliga,23,VfB Stuttgart,1. FC Köln,1,1,DRAW
+441994,2024-02-24 14:30:00+00:00,FINISHED,Bundesliga,23,1. FC Union Berlin,1. FC Heidenheim 1846,2,2,DRAW
+441995,2024-02-24 14:30:00+00:00,FINISHED,Bundesliga,23,SV Werder Bremen,SV Darmstadt 98,1,1,DRAW
+441993,2024-02-24 14:40:00+00:00,FINISHED,Bundesliga,23,Borussia Mönchengladbach,VfL Bochum 1848,5,2,HOME_TEAM
+441987,2024-02-24 17:30:00+00:00,FINISHED,Bundesliga,23,FC Bayern München,RB Leipzig,2,1,HOME_TEAM
+441989,2024-02-25 14:30:00+00:00,FINISHED,Bundesliga,23,Eintracht Frankfurt,VfL Wolfsburg,2,2,DRAW
+441992,2024-02-25 16:30:00+00:00,FINISHED,Bundesliga,23,Borussia Dortmund,TSG 1899 Hoffenheim,2,3,AWAY_TEAM
+441988,2024-02-25 18:30:00+00:00,FINISHED,Bundesliga,23,FC Augsburg,SC Freiburg,2,1,HOME_TEAM
+441996,2024-03-01 19:30:00+00:00,FINISHED,Bundesliga,24,SC Freiburg,FC Bayern München,2,2,DRAW
+441997,2024-03-02 14:30:00+00:00,FINISHED,Bundesliga,24,1. FC Union Berlin,Borussia Dortmund,0,2,AWAY_TEAM
+441998,2024-03-02 14:30:00+00:00,FINISHED,Bundesliga,24,VfL Bochum 1848,RB Leipzig,1,4,AWAY_TEAM
+442000,2024-03-02 14:30:00+00:00,FINISHED,Bundesliga,24,1. FC Heidenheim 1846,Eintracht Frankfurt,1,2,AWAY_TEAM
+442001,2024-03-02 14:30:00+00:00,FINISHED,Bundesliga,24,1. FSV Mainz 05,Borussia Mönchengladbach,1,1,DRAW
+442003,2024-03-02 14:30:00+00:00,FINISHED,Bundesliga,24,SV Darmstadt 98,FC Augsburg,0,6,AWAY_TEAM
+442004,2024-03-02 17:30:00+00:00,FINISHED,Bundesliga,24,VfL Wolfsburg,VfB Stuttgart,2,3,AWAY_TEAM
+441999,2024-03-03 14:30:00+00:00,FINISHED,Bundesliga,24,1. FC Köln,Bayer 04 Leverkusen,0,2,AWAY_TEAM
+442002,2024-03-03 16:30:00+00:00,FINISHED,Bundesliga,24,TSG 1899 Hoffenheim,SV Werder Bremen,2,1,HOME_TEAM
+442006,2024-03-08 19:30:00+00:00,FINISHED,Bundesliga,25,VfB Stuttgart,1. FC Union Berlin,2,0,HOME_TEAM
+442009,2024-03-09 14:30:00+00:00,FINISHED,Bundesliga,25,FC Bayern München,1. FSV Mainz 05,8,1,HOME_TEAM
+442010,2024-03-09 14:30:00+00:00,FINISHED,Bundesliga,25,Borussia Mönchengladbach,1. FC Köln,3,3,DRAW
+442012,2024-03-09 14:30:00+00:00,FINISHED,Bundesliga,25,FC Augsburg,1. FC Heidenheim 1846,1,0,HOME_TEAM
+442013,2024-03-09 14:30:00+00:00,FINISHED,Bundesliga,25,RB Leipzig,SV Darmstadt 98,2,0,HOME_TEAM
+442005,2024-03-09 17:30:00+00:00,FINISHED,Bundesliga,25,SV Werder Bremen,Borussia Dortmund,1,2,AWAY_TEAM
+442007,2024-03-10 14:30:00+00:00,FINISHED,Bundesliga,25,VfL Bochum 1848,SC Freiburg,1,2,AWAY_TEAM
+442011,2024-03-10 16:30:00+00:00,FINISHED,Bundesliga,25,Eintracht Frankfurt,TSG 1899 Hoffenheim,3,1,HOME_TEAM
+442008,2024-03-10 18:30:00+00:00,FINISHED,Bundesliga,25,Bayer 04 Leverkusen,VfL Wolfsburg,2,0,HOME_TEAM
+442015,2024-03-15 19:30:00+00:00,FINISHED,Bundesliga,26,1. FC Köln,RB Leipzig,1,5,AWAY_TEAM
+442014,2024-03-16 14:30:00+00:00,FINISHED,Bundesliga,26,SV Darmstadt 98,FC Bayern München,2,5,AWAY_TEAM
+442018,2024-03-16 14:30:00+00:00,FINISHED,Bundesliga,26,1. FC Heidenheim 1846,Borussia Mönchengladbach,1,1,DRAW
+442019,2024-03-16 14:30:00+00:00,FINISHED,Bundesliga,26,1. FC Union Berlin,SV Werder Bremen,2,1,HOME_TEAM
+442020,2024-03-16 14:30:00+00:00,FINISHED,Bundesliga,26,1. FSV Mainz 05,VfL Bochum 1848,2,0,HOME_TEAM
+442021,2024-03-16 14:30:00+00:00,FINISHED,Bundesliga,26,VfL Wolfsburg,FC Augsburg,1,3,AWAY_TEAM
+442022,2024-03-16 17:30:00+00:00,FINISHED,Bundesliga,26,TSG 1899 Hoffenheim,VfB Stuttgart,0,3,AWAY_TEAM
+442016,2024-03-17 14:30:00+00:00,FINISHED,Bundesliga,26,SC Freiburg,Bayer 04 Leverkusen,2,3,AWAY_TEAM
+442017,2024-03-17 16:30:00+00:00,FINISHED,Bundesliga,26,Borussia Dortmund,Eintracht Frankfurt,3,1,HOME_TEAM
+442024,2024-03-30 14:30:00+00:00,FINISHED,Bundesliga,27,Eintracht Frankfurt,1. FC Union Berlin,0,0,DRAW
+442025,2024-03-30 14:30:00+00:00,FINISHED,Bundesliga,27,Borussia Mönchengladbach,SC Freiburg,0,3,AWAY_TEAM
+442026,2024-03-30 14:30:00+00:00,FINISHED,Bundesliga,27,SV Werder Bremen,VfL Wolfsburg,0,2,AWAY_TEAM
+442027,2024-03-30 14:30:00+00:00,FINISHED,Bundesliga,27,RB Leipzig,1. FSV Mainz 05,0,0,DRAW
+442029,2024-03-30 14:30:00+00:00,FINISHED,Bundesliga,27,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2,1,HOME_TEAM
+442023,2024-03-30 17:30:00+00:00,FINISHED,Bundesliga,27,FC Bayern München,Borussia Dortmund,0,2,AWAY_TEAM
+442028,2024-03-31 13:30:00+00:00,FINISHED,Bundesliga,27,FC Augsburg,1. FC Köln,1,1,DRAW
+442030,2024-03-31 15:30:00+00:00,FINISHED,Bundesliga,27,VfB Stuttgart,1. FC Heidenheim 1846,3,3,DRAW
+442031,2024-03-31 17:30:00+00:00,FINISHED,Bundesliga,27,VfL Bochum 1848,SV Darmstadt 98,2,2,DRAW
+442036,2024-04-05 18:30:00+00:00,FINISHED,Bundesliga,28,Eintracht Frankfurt,SV Werder Bremen,1,1,DRAW
+442032,2024-04-06 13:30:00+00:00,FINISHED,Bundesliga,28,1. FC Heidenheim 1846,FC Bayern München,3,2,HOME_TEAM
+442033,2024-04-06 13:30:00+00:00,FINISHED,Bundesliga,28,SC Freiburg,RB Leipzig,1,4,AWAY_TEAM
+442034,2024-04-06 13:30:00+00:00,FINISHED,Bundesliga,28,1. FC Union Berlin,Bayer 04 Leverkusen,0,1,AWAY_TEAM
+442037,2024-04-06 13:30:00+00:00,FINISHED,Bundesliga,28,1. FC Köln,VfL Bochum 1848,2,1,HOME_TEAM
+442040,2024-04-06 13:30:00+00:00,FINISHED,Bundesliga,28,1. FSV Mainz 05,SV Darmstadt 98,4,0,HOME_TEAM
+442039,2024-04-06 16:30:00+00:00,FINISHED,Bundesliga,28,Borussia Dortmund,VfB Stuttgart,0,1,AWAY_TEAM
+442038,2024-04-07 13:30:00+00:00,FINISHED,Bundesliga,28,TSG 1899 Hoffenheim,FC Augsburg,3,1,HOME_TEAM
+442035,2024-04-07 15:30:00+00:00,FINISHED,Bundesliga,28,VfL Wolfsburg,Borussia Mönchengladbach,1,3,AWAY_TEAM
+442042,2024-04-12 18:30:00+00:00,FINISHED,Bundesliga,29,FC Augsburg,1. FC Union Berlin,2,0,HOME_TEAM
+442041,2024-04-13 13:30:00+00:00,FINISHED,Bundesliga,29,Borussia Mönchengladbach,Borussia Dortmund,1,2,AWAY_TEAM
+442045,2024-04-13 13:30:00+00:00,FINISHED,Bundesliga,29,RB Leipzig,VfL Wolfsburg,3,0,HOME_TEAM
+442046,2024-04-13 13:30:00+00:00,FINISHED,Bundesliga,29,FC Bayern München,1. FC Köln,2,0,HOME_TEAM
+442047,2024-04-13 13:30:00+00:00,FINISHED,Bundesliga,29,1. FSV Mainz 05,TSG 1899 Hoffenheim,4,1,HOME_TEAM
+442049,2024-04-13 13:30:00+00:00,FINISHED,Bundesliga,29,VfL Bochum 1848,1. FC Heidenheim 1846,1,1,DRAW
+442044,2024-04-13 16:30:00+00:00,FINISHED,Bundesliga,29,VfB Stuttgart,Eintracht Frankfurt,3,0,HOME_TEAM
+442043,2024-04-14 13:30:00+00:00,FINISHED,Bundesliga,29,SV Darmstadt 98,SC Freiburg,0,1,AWAY_TEAM
+442048,2024-04-14 15:30:00+00:00,FINISHED,Bundesliga,29,Bayer 04 Leverkusen,SV Werder Bremen,5,0,HOME_TEAM
+442056,2024-04-19 18:30:00+00:00,FINISHED,Bundesliga,30,Eintracht Frankfurt,FC Augsburg,3,1,HOME_TEAM
+442051,2024-04-20 13:30:00+00:00,FINISHED,Bundesliga,30,1. FC Heidenheim 1846,RB Leipzig,1,2,AWAY_TEAM
+442054,2024-04-20 13:30:00+00:00,FINISHED,Bundesliga,30,TSG 1899 Hoffenheim,Borussia Mönchengladbach,4,3,HOME_TEAM
+442055,2024-04-20 13:30:00+00:00,FINISHED,Bundesliga,30,VfL Wolfsburg,VfL Bochum 1848,1,0,HOME_TEAM
+442058,2024-04-20 13:30:00+00:00,FINISHED,Bundesliga,30,1. FC Köln,SV Darmstadt 98,0,2,AWAY_TEAM
+442050,2024-04-20 16:30:00+00:00,FINISHED,Bundesliga,30,1. FC Union Berlin,FC Bayern München,1,5,AWAY_TEAM
+442057,2024-04-21 13:30:00+00:00,FINISHED,Bundesliga,30,SV Werder Bremen,VfB Stuttgart,2,1,HOME_TEAM
+442052,2024-04-21 15:30:00+00:00,FINISHED,Bundesliga,30,Borussia Dortmund,Bayer 04 Leverkusen,1,1,DRAW
+442053,2024-04-21 17:30:00+00:00,FINISHED,Bundesliga,30,SC Freiburg,1. FSV Mainz 05,1,1,DRAW
+442064,2024-04-26 18:30:00+00:00,FINISHED,Bundesliga,31,VfL Bochum 1848,TSG 1899 Hoffenheim,3,2,HOME_TEAM
+442059,2024-04-27 13:30:00+00:00,FINISHED,Bundesliga,31,RB Leipzig,Borussia Dortmund,4,1,HOME_TEAM
+442061,2024-04-27 13:30:00+00:00,FINISHED,Bundesliga,31,FC Bayern München,Eintracht Frankfurt,2,1,HOME_TEAM
+442062,2024-04-27 13:30:00+00:00,FINISHED,Bundesliga,31,SC Freiburg,VfL Wolfsburg,1,2,AWAY_TEAM
+442065,2024-04-27 13:30:00+00:00,FINISHED,Bundesliga,31,FC Augsburg,SV Werder Bremen,0,3,AWAY_TEAM
+442066,2024-04-27 16:30:00+00:00,FINISHED,Bundesliga,31,Bayer 04 Leverkusen,VfB Stuttgart,2,2,DRAW
+442060,2024-04-28 13:30:00+00:00,FINISHED,Bundesliga,31,Borussia Mönchengladbach,1. FC Union Berlin,0,0,DRAW
+442063,2024-04-28 15:30:00+00:00,FINISHED,Bundesliga,31,1. FSV Mainz 05,1. FC Köln,1,1,DRAW
+442067,2024-04-28 17:30:00+00:00,FINISHED,Bundesliga,31,SV Darmstadt 98,1. FC Heidenheim 1846,0,1,AWAY_TEAM
+442069,2024-05-03 18:30:00+00:00,FINISHED,Bundesliga,32,TSG 1899 Hoffenheim,RB Leipzig,1,1,DRAW
+442068,2024-05-04 13:30:00+00:00,FINISHED,Bundesliga,32,VfB Stuttgart,FC Bayern München,3,1,HOME_TEAM
+442073,2024-05-04 13:30:00+00:00,FINISHED,Bundesliga,32,SV Werder Bremen,Borussia Mönchengladbach,2,2,DRAW
+442075,2024-05-04 13:30:00+00:00,FINISHED,Bundesliga,32,Borussia Dortmund,FC Augsburg,5,1,HOME_TEAM
+442076,2024-05-04 13:30:00+00:00,FINISHED,Bundesliga,32,VfL Wolfsburg,SV Darmstadt 98,3,0,HOME_TEAM
+442070,2024-05-04 16:30:00+00:00,FINISHED,Bundesliga,32,1. FC Köln,SC Freiburg,0,0,DRAW
+442074,2024-05-05 13:30:00+00:00,FINISHED,Bundesliga,32,1. FC Union Berlin,VfL Bochum 1848,3,4,AWAY_TEAM
+442071,2024-05-05 15:30:00+00:00,FINISHED,Bundesliga,32,Eintracht Frankfurt,Bayer 04 Leverkusen,1,5,AWAY_TEAM
+442072,2024-05-05 17:30:00+00:00,FINISHED,Bundesliga,32,1. FC Heidenheim 1846,1. FSV Mainz 05,1,1,DRAW
+442084,2024-05-10 18:30:00+00:00,FINISHED,Bundesliga,33,FC Augsburg,VfB Stuttgart,0,1,AWAY_TEAM
+442078,2024-05-11 13:30:00+00:00,FINISHED,Bundesliga,33,1. FC Köln,1. FC Union Berlin,3,2,HOME_TEAM
+442080,2024-05-11 13:30:00+00:00,FINISHED,Bundesliga,33,Borussia Mönchengladbach,Eintracht Frankfurt,1,1,DRAW
+442083,2024-05-11 13:30:00+00:00,FINISHED,Bundesliga,33,RB Leipzig,SV Werder Bremen,1,1,DRAW
+442085,2024-05-11 13:30:00+00:00,FINISHED,Bundesliga,33,SC Freiburg,1. FC Heidenheim 1846,1,1,DRAW
+442077,2024-05-11 16:30:00+00:00,FINISHED,Bundesliga,33,1. FSV Mainz 05,Borussia Dortmund,3,0,HOME_TEAM
+442082,2024-05-12 13:30:00+00:00,FINISHED,Bundesliga,33,SV Darmstadt 98,TSG 1899 Hoffenheim,0,6,AWAY_TEAM
+442081,2024-05-12 15:30:00+00:00,FINISHED,Bundesliga,33,FC Bayern München,VfL Wolfsburg,2,0,HOME_TEAM
+442079,2024-05-12 17:30:00+00:00,FINISHED,Bundesliga,33,VfL Bochum 1848,Bayer 04 Leverkusen,0,5,AWAY_TEAM
+442086,2024-05-18 13:30:00+00:00,FINISHED,Bundesliga,34,TSG 1899 Hoffenheim,FC Bayern München,4,2,HOME_TEAM
+442087,2024-05-18 13:30:00+00:00,FINISHED,Bundesliga,34,Eintracht Frankfurt,RB Leipzig,2,2,DRAW
+442088,2024-05-18 13:30:00+00:00,FINISHED,Bundesliga,34,1. FC Union Berlin,SC Freiburg,2,1,HOME_TEAM
+442089,2024-05-18 13:30:00+00:00,FINISHED,Bundesliga,34,VfL Wolfsburg,1. FSV Mainz 05,1,3,AWAY_TEAM
+442090,2024-05-18 13:30:00+00:00,FINISHED,Bundesliga,34,VfB Stuttgart,Borussia Mönchengladbach,4,0,HOME_TEAM
+442091,2024-05-18 13:30:00+00:00,FINISHED,Bundesliga,34,1. FC Heidenheim 1846,1. FC Köln,4,1,HOME_TEAM
+442092,2024-05-18 13:30:00+00:00,FINISHED,Bundesliga,34,SV Werder Bremen,VfL Bochum 1848,4,1,HOME_TEAM
+442093,2024-05-18 13:30:00+00:00,FINISHED,Bundesliga,34,Bayer 04 Leverkusen,FC Augsburg,2,1,HOME_TEAM
+442094,2024-05-18 13:30:00+00:00,FINISHED,Bundesliga,34,Borussia Dortmund,SV Darmstadt 98,4,0,HOME_TEAM
